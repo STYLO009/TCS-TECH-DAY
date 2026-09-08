@@ -1,0 +1,861 @@
+MSN,YYYYMM,Value,Column_Order,Description,Unit,Date,Year,Month,Time_Index,Lag_1,Lag_2,Lag_3,Rolling_Mean_3,Predicted_Value
+RFEIEUS,198804,5.763,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-04-01,1988,4,23860,7.438,9.106,12.287,9.610333333333335,6.7998066
+RFEIEUS,198805,5.461,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-05-01,1988,5,23861,5.763,7.438,9.106,7.435666666666669,6.5752463
+RFEIEUS,198806,7.324,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-06-01,1988,6,23862,5.461,5.763,7.438,6.220666666666667,7.6171956
+RFEIEUS,198807,10.719,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-07-01,1988,7,23863,7.324,5.461,5.763,6.182666666666669,8.654576
+RFEIEUS,198808,11.938,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-08-01,1988,8,23864,10.719,7.324,5.461,7.834666666666667,9.785174
+RFEIEUS,198809,7.725,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-09-01,1988,9,23865,11.938,10.719,7.324,9.993666666666668,9.089151
+RFEIEUS,198810,10.294,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-10-01,1988,10,23866,7.725,11.938,10.719,10.127333333333334,6.9370527
+RFEIEUS,198811,11.492,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-11-01,1988,11,23867,10.294,7.725,11.938,9.985666666666669,8.943484
+RFEIEUS,198812,14.061,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-12-01,1988,12,23868,11.492,10.294,7.725,9.837000000000002,13.3923645
+RFEIEUS,198901,11.711,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-01-01,1989,1,23869,14.061,11.492,10.294,11.949000000000003,12.929649
+RFEIEUS,198902,13.526,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-02-01,1989,2,23870,11.711,14.061,11.492,12.421333333333335,10.442085
+RFEIEUS,198903,12.565,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-03-01,1989,3,23871,13.526,11.711,14.061,13.099333333333334,14.207813
+RFEIEUS,198904,9.071,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-04-01,1989,4,23872,12.565,13.526,11.711,12.600666666666669,12.081759
+RFEIEUS,198905,7.723,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-05-01,1989,5,23873,9.071,12.565,13.526,11.720666666666668,9.210806
+RFEIEUS,198906,9.625,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-06-01,1989,6,23874,7.723,9.071,12.565,9.786333333333333,9.135064
+RFEIEUS,198907,9.32,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-07-01,1989,7,23875,9.625,7.723,9.071,8.806333333333335,10.977904
+RFEIEUS,198908,8.565,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-08-01,1989,8,23876,9.32,9.625,7.723,8.889333333333335,10.186607
+RFEIEUS,198909,7.82,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-09-01,1989,9,23877,8.565,9.32,9.625,9.170000000000002,7.373948
+RFEIEUS,198910,6.403,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-10-01,1989,10,23878,7.82,8.565,9.32,8.568333333333335,7.7557154
+RFEIEUS,198911,8.88,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-11-01,1989,11,23879,6.403,7.82,8.565,7.596000000000001,6.8966694
+RFEIEUS,198912,15.755,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-12-01,1989,12,23880,8.88,6.403,7.82,7.7010000000000005,11.8376255
+RFEIEUS,199001,9.246,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-01-01,1990,1,23881,15.755,8.88,6.403,10.346000000000002,12.114127
+RFEIEUS,199002,7.465,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-02-01,1990,2,23882,9.246,15.755,8.88,11.293666666666669,7.4924564
+RFEIEUS,199003,8.122,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-03-01,1990,3,23883,7.465,9.246,15.755,10.822000000000001,7.742164
+RFEIEUS,199004,8.028,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-04-01,1990,4,23884,8.122,7.465,9.246,8.277666666666667,7.5649624
+RFEIEUS,199005,7.372,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-05-01,1990,5,23885,8.028,8.122,7.465,7.871666666666667,8.595573
+RFEIEUS,199006,10.422,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-06-01,1990,6,23886,7.372,8.028,8.122,7.840666666666667,8.639045
+RFEIEUS,199007,10.13,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-07-01,1990,7,23887,10.422,7.372,8.028,8.607333333333335,12.131693
+RFEIEUS,199008,8.449,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-08-01,1990,8,23888,10.13,10.422,7.372,9.308000000000002,10.399594
+RFEIEUS,199009,6.084,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-09-01,1990,9,23889,8.449,10.13,10.422,9.667000000000002,6.7484922
+RFEIEUS,199010,5.445,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-10-01,1990,10,23890,6.084,8.449,10.13,8.221,5.9454317
+RFEIEUS,199011,4.788,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-11-01,1990,11,23891,5.445,6.084,8.449,6.6593333333333335,5.9582434
+RFEIEUS,199012,6.055,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-12-01,1990,12,23892,4.788,5.445,6.084,5.439,5.7525783
+RFEIEUS,199101,7.127,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-01-01,1991,1,23893,6.055,4.788,5.445,5.429333333333335,6.8942304
+RFEIEUS,199102,6.793,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-02-01,1991,2,23894,7.127,6.055,4.788,5.990000000000001,6.410022
+RFEIEUS,199103,6.751,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-03-01,1991,3,23895,6.793,7.127,6.055,6.658333333333334,6.608847
+RFEIEUS,199104,6.067,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-04-01,1991,4,23896,6.751,6.793,7.127,6.890333333333334,6.3408203
+RFEIEUS,199105,8.15,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-05-01,1991,5,23897,6.067,6.751,6.793,6.537000000000002,6.4147887
+RFEIEUS,199106,8.656,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-06-01,1991,6,23898,8.15,6.067,6.751,6.9893333333333345,8.925369
+RFEIEUS,199107,8.639,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-07-01,1991,7,23899,8.656,8.15,6.067,7.624333333333333,9.814524
+RFEIEUS,199108,9.014,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-08-01,1991,8,23900,8.639,8.656,8.15,8.481666666666667,9.500154
+RFEIEUS,199109,6.6,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-09-01,1991,9,23901,9.014,8.639,8.656,8.769666666666668,7.108972
+RFEIEUS,199110,4.892,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-10-01,1991,10,23902,6.6,9.014,8.639,8.084333333333333,6.4317408
+RFEIEUS,199111,6.006,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-11-01,1991,11,23903,4.892,6.6,9.014,6.835333333333334,5.091908
+RFEIEUS,199112,6.823,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-12-01,1991,12,23904,6.006,4.892,6.6,5.832666666666667,6.7772193
+RFEIEUS,199201,8.003,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-01-01,1992,1,23905,6.823,6.006,4.892,5.907000000000001,7.9804196
+RFEIEUS,199202,6.443,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-02-01,1992,2,23906,8.003,6.823,6.006,6.944000000000002,7.06343
+RFEIEUS,199203,6.829,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-03-01,1992,3,23907,6.443,8.003,6.823,7.089666666666669,6.568014
+RFEIEUS,199204,5.025,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-04-01,1992,4,23908,6.829,6.443,8.003,7.091666666666668,6.294191
+RFEIEUS,199205,4.003,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-05-01,1992,5,23909,5.025,6.829,6.443,6.099000000000001,5.114601
+RFEIEUS,199206,5.756,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-06-01,1992,6,23910,4.003,5.025,6.829,5.285666666666668,5.4427714
+RFEIEUS,199207,6.549,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-07-01,1992,7,23911,5.756,4.003,5.025,4.928000000000001,6.932525
+RFEIEUS,199208,5.369,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-08-01,1992,8,23912,6.549,5.756,4.003,5.436000000000003,6.956591
+RFEIEUS,199209,5.292,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-09-01,1992,9,23913,5.369,6.549,5.756,5.8913333333333355,5.123683
+RFEIEUS,199210,5.291,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-10-01,1992,10,23914,5.292,5.369,6.549,5.736666666666668,5.4990444
+RFEIEUS,199211,5.228,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-11-01,1992,11,23915,5.291,5.292,5.369,5.317333333333335,5.445691
+RFEIEUS,199212,4.934,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-12-01,1992,12,23916,5.228,5.291,5.292,5.270333333333334,6.581411
+RFEIEUS,199301,5.467,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-01-01,1993,1,23917,4.934,5.228,5.291,5.151000000000001,5.9212146
+RFEIEUS,199302,5.348,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-02-01,1993,2,23918,5.467,4.934,5.228,5.209666666666668,5.2398157
+RFEIEUS,199303,6.469,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-03-01,1993,3,23919,5.348,5.467,4.934,5.249666666666667,5.7320356
+RFEIEUS,199304,3.86,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-04-01,1993,4,23920,6.469,5.348,5.467,5.761333333333334,5.9376554
+RFEIEUS,199305,3.907,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-05-01,1993,5,23921,3.86,6.469,5.348,5.225666666666668,4.3938737
+RFEIEUS,199306,5.949,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-06-01,1993,6,23922,3.907,3.86,6.469,4.745333333333335,5.4954205
+RFEIEUS,199307,8.549,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-07-01,1993,7,23923,5.949,3.907,3.86,4.572000000000001,7.458646
+RFEIEUS,199308,9.13,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-08-01,1993,8,23924,8.549,5.949,3.907,6.135000000000001,8.563029
+RFEIEUS,199309,7.453,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-09-01,1993,9,23925,9.13,8.549,5.949,7.876000000000001,8.048487
+RFEIEUS,199310,5.727,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-10-01,1993,10,23926,7.453,9.13,8.549,8.377333333333334,6.6537743
+RFEIEUS,199311,5.737,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-11-01,1993,11,23927,5.727,7.453,9.13,7.436666666666668,5.8325143
+RFEIEUS,199312,7.941,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-12-01,1993,12,23928,5.737,5.727,7.453,6.305666666666668,7.977364
+RFEIEUS,199401,10.547,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-01-01,1994,1,23929,7.941,5.737,5.727,6.468333333333335,9.244133
+RFEIEUS,199402,7.473,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-02-01,1994,2,23930,10.547,7.941,5.737,8.075000000000001,8.054189
+RFEIEUS,199403,6.115,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-03-01,1994,3,23931,7.473,10.547,7.941,8.653666666666668,7.6646037
+RFEIEUS,199404,5.891,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-04-01,1994,4,23932,6.115,7.473,10.547,8.045000000000002,5.3840313
+RFEIEUS,199405,5.261,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-05-01,1994,5,23933,5.891,6.115,7.473,6.493000000000001,6.477566
+RFEIEUS,199406,7.513,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-06-01,1994,6,23934,5.261,5.891,6.115,5.755666666666667,7.036128
+RFEIEUS,199407,7.15,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-07-01,1994,7,23935,7.513,5.261,5.891,6.221666666666668,8.199793
+RFEIEUS,199408,4.572,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-08-01,1994,8,23936,7.15,7.513,5.261,6.6413333333333355,7.0243106
+RFEIEUS,199409,3.735,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-09-01,1994,9,23937,4.572,7.15,7.513,6.411666666666668,4.123803
+RFEIEUS,199410,3.373,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-10-01,1994,10,23938,3.735,4.572,7.15,5.152333333333335,3.751083
+RFEIEUS,199411,3.27,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-11-01,1994,11,23939,3.373,3.735,4.572,3.8933333333333344,4.103416
+RFEIEUS,199412,3.574,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-12-01,1994,12,23940,3.27,3.373,3.735,3.4593333333333347,3.1164622
+RFEIEUS,199501,3.067,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-01-01,1995,1,23941,3.574,3.27,3.373,3.405666666666668,3.6250885
+RFEIEUS,199502,5.386,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-02-01,1995,2,23942,3.067,3.574,3.27,3.303666666666668,2.7122133
+RFEIEUS,199503,2.202,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-03-01,1995,3,23943,5.386,3.067,3.574,4.009000000000001,5.219341
+RFEIEUS,199504,2.407,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-04-01,1995,4,23944,2.202,5.386,3.067,3.551666666666668,1.8051151
+RFEIEUS,199505,3.153,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-05-01,1995,5,23945,2.407,2.202,5.386,3.3316666666666683,2.3665185
+RFEIEUS,199506,3.225,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-06-01,1995,6,23946,3.153,2.407,2.202,2.587333333333335,2.9263883
+RFEIEUS,199507,5.412,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-07-01,1995,7,23947,3.225,3.153,2.407,2.9283333333333346,3.2734315
+RFEIEUS,199508,5.895,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-08-01,1995,8,23948,5.412,3.225,3.153,3.930000000000001,6.0590515
+RFEIEUS,199509,3.587,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-09-01,1995,9,23949,5.895,5.412,3.225,4.844000000000001,5.376053
+RFEIEUS,199510,2.445,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-10-01,1995,10,23950,3.587,5.895,5.412,4.964666666666668,3.6818128
+RFEIEUS,199511,2.478,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-11-01,1995,11,23951,2.445,3.587,5.895,3.9756666666666676,3.533985
+RFEIEUS,199512,5.338,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-12-01,1995,12,23952,2.478,2.445,3.587,2.836666666666668,2.579638
+RFEIEUS,199601,5.862,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-01-01,1996,1,23953,5.338,2.478,2.445,3.420333333333335,4.7923703
+RFEIEUS,199602,6.091,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-02-01,1996,2,23954,5.862,5.338,2.478,4.559333333333335,5.5822234
+RFEIEUS,199603,4.511,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-03-01,1996,3,23955,6.091,5.862,5.338,5.763666666666668,5.6476665
+RFEIEUS,199604,2.232,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-04-01,1996,4,23956,4.511,6.091,5.862,5.488000000000002,4.234082
+RFEIEUS,199605,2.7,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-05-01,1996,5,23957,2.232,4.511,6.091,4.278000000000001,4.11324
+RFEIEUS,199606,4.291,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-06-01,1996,6,23958,2.7,2.232,4.511,3.147666666666668,3.0671403
+RFEIEUS,199607,5.879,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-07-01,1996,7,23959,4.291,2.7,2.232,3.074333333333335,3.5230963
+RFEIEUS,199608,4.64,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-08-01,1996,8,23960,5.879,4.291,2.7,4.290000000000002,6.70788
+RFEIEUS,199609,3.504,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-09-01,1996,9,23961,4.64,5.879,4.291,4.936666666666668,3.9912715
+RFEIEUS,199610,2.317,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-10-01,1996,10,23962,3.504,4.64,5.879,4.674333333333334,3.8527837
+RFEIEUS,199611,3.11,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-11-01,1996,11,23963,2.317,3.504,4.64,3.4870000000000005,2.204968
+RFEIEUS,199612,4.377,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-12-01,1996,12,23964,3.11,2.317,3.504,2.9770000000000016,3.0251174
+RFEIEUS,199701,6.115,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-01-01,1997,1,23965,4.377,3.11,2.317,3.268000000000001,3.744803
+RFEIEUS,199702,3.216,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-02-01,1997,2,23966,6.115,4.377,3.11,4.534000000000002,5.7278676
+RFEIEUS,199703,3.097,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-03-01,1997,3,23967,3.216,6.115,4.377,4.5693333333333355,4.441768
+RFEIEUS,199704,2.622,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-04-01,1997,4,23968,3.097,3.216,6.115,4.142666666666668,3.8005922
+RFEIEUS,199705,3.135,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-05-01,1997,5,23969,2.622,3.097,3.216,2.978333333333335,2.7400086
+RFEIEUS,199706,4.97,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-06-01,1997,6,23970,3.135,2.622,3.097,2.9513333333333343,3.2396975
+RFEIEUS,199707,6.4,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-07-01,1997,7,23971,4.97,3.135,2.622,3.575666666666668,4.180009
+RFEIEUS,199708,5.533,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-08-01,1997,8,23972,6.4,4.97,3.135,4.835000000000002,7.0783076
+RFEIEUS,199709,5.634,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-09-01,1997,9,23973,5.533,6.4,4.97,5.634333333333335,5.030485
+RFEIEUS,199710,5.241,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-10-01,1997,10,23974,5.634,5.533,6.4,5.855666666666668,5.4432964
+RFEIEUS,199711,4.939,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-11-01,1997,11,23975,5.241,5.634,5.533,5.469333333333335,5.3440204
+RFEIEUS,199712,5.408,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-12-01,1997,12,23976,4.939,5.241,5.634,5.2713333333333345,5.6448703
+RFEIEUS,199801,4.749,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-01-01,1998,1,23977,5.408,4.939,5.241,5.196000000000001,6.6252027
+RFEIEUS,199802,4.312,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-02-01,1998,2,23978,4.749,5.408,4.939,5.032000000000001,4.613456
+RFEIEUS,199803,6.695,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-03-01,1998,3,23979,4.312,4.749,5.408,4.823000000000001,4.738332
+RFEIEUS,199804,5.105,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-04-01,1998,4,23980,6.695,4.312,4.749,5.252000000000002,6.0925045
+RFEIEUS,199805,7.041,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-05-01,1998,5,23981,5.105,6.695,4.312,5.3706666666666685,4.8676414
+RFEIEUS,199806,8.853,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-06-01,1998,6,23982,7.041,5.105,6.695,6.280333333333335,8.323605
+RFEIEUS,199807,10.145,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-07-01,1998,7,23983,8.853,7.041,5.105,6.999666666666667,9.765724
+RFEIEUS,199808,9.882,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-08-01,1998,8,23984,10.145,8.853,7.041,8.679666666666668,10.835169
+RFEIEUS,199809,7.704,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-09-01,1998,9,23985,9.882,10.145,8.853,9.626666666666667,7.1400595
+RFEIEUS,199810,5.599,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-10-01,1998,10,23986,7.704,9.882,10.145,9.243666666666668,6.5337563
+RFEIEUS,199811,5.6,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-11-01,1998,11,23987,5.599,7.704,9.882,7.728333333333335,5.3899155
+RFEIEUS,199812,6.813,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-12-01,1998,12,23988,5.6,5.599,7.704,6.301000000000001,8.011786
+RFEIEUS,199901,8.419,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-01-01,1999,1,23989,6.813,5.6,5.599,6.0040000000000004,7.945208
+RFEIEUS,199902,7.174,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-02-01,1999,2,23990,8.419,6.813,5.6,6.944,7.1720405
+RFEIEUS,199903,7.499,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-03-01,1999,3,23991,7.174,8.419,6.813,7.468666666666668,6.7763977
+RFEIEUS,199904,6.091,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-04-01,1999,4,23992,7.499,7.174,8.419,7.697333333333336,6.4642715
+RFEIEUS,199905,6.414,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-05-01,1999,5,23993,6.091,7.499,7.174,6.921333333333334,6.3900433
+RFEIEUS,199906,7.126,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-06-01,1999,6,23994,6.414,6.091,7.499,6.668000000000002,8.196546
+RFEIEUS,199907,9.576,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-07-01,1999,7,23995,7.126,6.414,6.091,6.543666666666668,8.132939
+RFEIEUS,199908,8.213,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-08-01,1999,8,23996,9.576,7.126,6.414,7.705333333333335,8.806495
+RFEIEUS,199909,5.421,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-09-01,1999,9,23997,8.213,9.576,7.126,8.305000000000001,6.9879103
+RFEIEUS,199910,4.433,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-10-01,1999,10,23998,5.421,8.213,9.576,7.736666666666668,5.357545
+RFEIEUS,199911,2.777,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-11-01,1999,11,23999,4.433,5.421,8.213,6.022333333333335,4.4249115
+RFEIEUS,199912,2.401,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-12-01,1999,12,24000,2.777,4.433,5.421,4.210333333333335,4.9531903
+RFEIEUS,200001,4.366,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-01-01,2000,1,24001,2.401,2.777,4.433,3.203666666666668,3.44264
+RFEIEUS,200002,2.878,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-02-01,2000,2,24002,4.366,2.401,2.777,3.1813333333333347,2.5667877
+RFEIEUS,200003,2.72,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-03-01,2000,3,24003,2.878,4.366,2.401,3.215000000000001,2.6686363
+RFEIEUS,200004,2.976,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-04-01,2000,4,24004,2.72,2.878,4.366,3.321333333333335,2.2749512
+RFEIEUS,200005,5.484,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-05-01,2000,5,24005,2.976,2.72,2.878,2.858000000000001,2.9212852
+RFEIEUS,200006,7.424,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-06-01,2000,6,24006,5.484,2.976,2.72,3.726666666666668,6.390245
+RFEIEUS,200007,6.902,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-07-01,2000,7,24007,7.424,5.484,2.976,5.294666666666668,7.738435
+RFEIEUS,200008,8.563,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-08-01,2000,8,24008,6.902,7.424,5.484,6.603333333333334,7.415433
+RFEIEUS,200009,7.638,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-09-01,2000,9,24009,8.563,6.902,7.424,7.629666666666668,6.8940883
+RFEIEUS,200010,5.795,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-10-01,2000,10,24010,7.638,8.563,6.902,7.701000000000001,6.4638214
+RFEIEUS,200011,4.812,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-11-01,2000,11,24011,5.795,7.638,8.563,7.332000000000001,5.8480697
+RFEIEUS,200012,9.059,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-12-01,2000,12,24012,4.812,5.795,7.638,6.081666666666668,7.5642858
+RFEIEUS,200101,10.662,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-01-01,2001,1,24013,9.059,4.812,5.795,6.555333333333334,10.53116
+RFEIEUS,200102,6.484,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-02-01,2001,2,24014,10.662,9.059,4.812,8.177666666666667,7.6860867
+RFEIEUS,200103,7.461,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-03-01,2001,3,24015,6.484,10.662,9.059,8.735000000000001,7.6157136
+RFEIEUS,200104,7.192,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-04-01,2001,4,24016,7.461,6.484,10.662,8.202333333333335,6.392698
+RFEIEUS,200105,6.775,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-05-01,2001,5,24017,7.192,7.461,6.484,7.045666666666668,7.1125526
+RFEIEUS,200106,8.194,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-06-01,2001,6,24018,6.775,7.192,7.461,7.142666666666668,8.342071
+RFEIEUS,200107,7.229,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-07-01,2001,7,24019,8.194,6.775,7.192,7.387000000000001,10.101274
+RFEIEUS,200108,9.628,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-08-01,2001,8,24020,7.229,8.194,6.775,7.399333333333335,7.591308
+RFEIEUS,200109,4.52,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-09-01,2001,9,24021,9.628,7.229,8.194,8.350333333333333,7.2968693
+RFEIEUS,200110,3.71,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-10-01,2001,10,24022,4.52,9.628,7.229,7.1256666666666675,4.5774903
+RFEIEUS,200111,3.525,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-11-01,2001,11,24023,3.71,4.52,9.628,5.9526666666666666,3.972167
+RFEIEUS,200112,3.637,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-12-01,2001,12,24024,3.525,3.71,4.52,3.9183333333333334,4.8697057
+RFEIEUS,200201,3.404,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-01-01,2002,1,24025,3.637,3.525,3.71,3.6240000000000006,5.354939
+RFEIEUS,200202,2.868,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-02-01,2002,2,24026,3.404,3.637,3.525,3.5220000000000007,2.7124834
+RFEIEUS,200203,4.593,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-03-01,2002,3,24027,2.868,3.404,3.637,3.3030000000000004,2.4658957
+RFEIEUS,200204,4.303,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-04-01,2002,4,24028,4.593,2.868,3.404,3.6216666666666675,4.3773136
+RFEIEUS,200205,4.295,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-05-01,2002,5,24029,4.303,4.593,2.868,3.9213333333333336,4.637345
+RFEIEUS,200206,4.333,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-06-01,2002,6,24030,4.295,4.303,4.593,4.397,5.4989004
+RFEIEUS,200207,5.666,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-07-01,2002,7,24031,4.333,4.295,4.303,4.310333333333333,6.1294684
+RFEIEUS,200208,5.601,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-08-01,2002,8,24032,5.666,4.333,4.295,4.764666666666667,6.362839
+RFEIEUS,200209,4.474,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-09-01,2002,9,24033,5.601,5.666,4.333,5.2,5.223047
+RFEIEUS,200210,4.504,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-10-01,2002,10,24034,4.474,5.601,5.666,5.247,4.604756
+RFEIEUS,200211,3.313,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-11-01,2002,11,24035,4.504,4.474,5.601,4.859666666666667,4.4225707
+RFEIEUS,200212,4.551,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-12-01,2002,12,24036,3.313,4.504,4.474,4.097,4.9439545
+RFEIEUS,200301,6.967,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-01-01,2003,1,24037,4.551,3.313,4.504,4.1226666666666665,5.863088
+RFEIEUS,200302,5.973,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-02-01,2003,2,24038,6.967,4.551,3.313,4.943666666666666,5.7149568
+RFEIEUS,200303,6.098,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-03-01,2003,3,24039,5.973,6.967,4.551,5.830333333333333,5.683543
+RFEIEUS,200304,5.238,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-04-01,2003,4,24040,6.098,5.973,6.967,6.346,6.035453
+RFEIEUS,200305,4.223,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-05-01,2003,5,24041,5.238,6.098,5.973,5.769666666666667,6.1410437
+RFEIEUS,200306,6.236,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-06-01,2003,6,24042,4.223,5.238,6.098,5.186333333333334,5.528562
+RFEIEUS,200307,7.284,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-07-01,2003,7,24043,6.236,4.223,5.238,5.232333333333334,7.6717415
+RFEIEUS,200308,7.764,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-08-01,2003,8,24044,7.284,6.236,4.223,5.9143333333333326,7.449332
+RFEIEUS,200309,5.045,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-09-01,2003,9,24045,7.764,7.284,6.236,7.094666666666666,5.966208
+RFEIEUS,200310,4.783,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-10-01,2003,10,24046,5.045,7.764,7.284,6.697666666666667,5.0096936
+RFEIEUS,200311,3.281,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-11-01,2003,11,24047,4.783,5.045,7.764,5.864000000000001,4.706679
+RFEIEUS,200312,5.61,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-12-01,2003,12,24048,3.281,4.783,5.045,4.369666666666666,5.127329
+RFEIEUS,200401,8.302,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-01-01,2004,1,24049,5.61,3.281,4.783,4.558000000000001,6.989131
+RFEIEUS,200402,5.285,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-02-01,2004,2,24050,8.302,5.61,3.281,5.731000000000001,6.7879734
+RFEIEUS,200403,5.61,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-03-01,2004,3,24051,5.285,8.302,5.61,6.399000000000001,6.013377
+RFEIEUS,200404,5.228,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-04-01,2004,4,24052,5.61,5.285,8.302,6.399,5.66726
+RFEIEUS,200405,6.003,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-05-01,2004,5,24053,5.228,5.61,5.285,5.374333333333333,6.2002816
+RFEIEUS,200406,6.556,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-06-01,2004,6,24054,6.003,5.228,5.61,5.613666666666667,6.973056
+RFEIEUS,200407,7.553,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-07-01,2004,7,24055,6.556,6.003,5.228,5.928999999999999,8.057497
+RFEIEUS,200408,6.748,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-08-01,2004,8,24056,7.553,6.556,6.003,6.704,7.4227195
+RFEIEUS,200409,4.842,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-09-01,2004,9,24057,6.748,7.553,6.556,6.952333333333333,5.8189173
+RFEIEUS,200410,4.094,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-10-01,2004,10,24058,4.842,6.748,7.553,6.381,4.9717813
+RFEIEUS,200411,3.6,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-11-01,2004,11,24059,4.094,4.842,6.748,5.228,3.9707332
+RFEIEUS,200412,5.442,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-12-01,2004,12,24060,3.6,4.094,4.842,4.1786666666666665,5.1381645
+RFEIEUS,200501,6.471,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-01-01,2005,1,24061,5.442,3.6,4.094,4.378666666666667,6.881132
+RFEIEUS,200502,3.794,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-02-01,2005,2,24062,6.471,5.442,3.6,5.170999999999999,5.741668
+RFEIEUS,200503,4.45,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-03-01,2005,3,24063,3.794,6.471,5.442,5.235666666666666,4.322474
+RFEIEUS,200504,3.541,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-04-01,2005,4,24064,4.45,3.794,6.471,4.905,4.550482
+RFEIEUS,200505,3.2,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-05-01,2005,5,24065,3.541,4.45,3.794,3.9283333333333332,4.413783
+RFEIEUS,200506,6.358,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-06-01,2005,6,24066,3.2,3.541,4.45,3.730333333333333,4.7924404
+RFEIEUS,200507,7.792,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-07-01,2005,7,24067,6.358,3.2,3.541,4.366333333333333,7.60006
+RFEIEUS,200508,8.83,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-08-01,2005,8,24068,7.792,6.358,3.2,5.783333333333334,7.5048766
+RFEIEUS,200509,7.498,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-09-01,2005,9,24069,8.83,7.792,6.358,7.66,7.1345706
+RFEIEUS,200510,5.923,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-10-01,2005,10,24070,7.498,8.83,7.792,8.040000000000001,6.443903
+RFEIEUS,200511,3.559,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-11-01,2005,11,24071,5.923,7.498,8.83,7.417000000000001,5.8319116
+RFEIEUS,200512,7.646,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-12-01,2005,12,24072,3.559,5.923,7.498,5.66,6.1021376
+RFEIEUS,200601,2.69,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-01-01,2006,1,24073,7.646,3.559,5.923,5.709333333333333,7.514661
+RFEIEUS,200602,2.073,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-02-01,2006,2,24074,2.69,7.646,3.559,4.631666666666667,3.7390084
+RFEIEUS,200603,1.397,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-03-01,2006,3,24075,2.073,2.69,7.646,4.136333333333333,3.631002
+RFEIEUS,200604,1.745,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-04-01,2006,4,24076,1.397,2.073,2.69,2.0533333333333332,1.3327239
+RFEIEUS,200605,1.698,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-05-01,2006,5,24077,1.745,1.397,2.073,1.7383333333333333,1.8670619
+RFEIEUS,200606,2.647,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-06-01,2006,6,24078,1.698,1.745,1.397,1.6133333333333333,1.8785532
+RFEIEUS,200607,3.45,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-07-01,2006,7,24079,2.647,1.698,1.745,2.03,2.795082
+RFEIEUS,200608,4.54,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-08-01,2006,8,24080,3.45,2.647,1.698,2.598333333333333,2.7319436
+RFEIEUS,200609,1.975,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-09-01,2006,9,24081,4.54,3.45,2.647,3.545666666666667,2.7622004
+RFEIEUS,200610,2.214,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-10-01,2006,10,24082,1.975,4.54,3.45,3.3216666666666668,1.9381778
+RFEIEUS,200611,2.127,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-11-01,2006,11,24083,2.214,1.975,4.54,2.9096666666666664,2.0562937
+RFEIEUS,200612,1.853,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-12-01,2006,12,24084,2.127,2.214,1.975,2.1053333333333333,2.299585
+RFEIEUS,200701,2.79,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-01-01,2007,1,24085,1.853,2.127,2.214,2.064666666666666,2.7990274
+RFEIEUS,200702,4.704,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-02-01,2007,2,24086,2.79,1.853,2.127,2.2566666666666664,2.4094794
+RFEIEUS,200703,2.558,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-03-01,2007,3,24087,4.704,2.79,1.853,3.1156666666666664,2.655509
+RFEIEUS,200704,2.445,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-04-01,2007,4,24088,2.558,4.704,2.79,3.3506666666666667,2.2571588
+RFEIEUS,200705,2.192,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-05-01,2007,5,24089,2.445,2.558,4.704,3.2356666666666665,2.3384247
+RFEIEUS,200706,2.74,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-06-01,2007,6,24090,2.192,2.445,2.558,2.3983333333333334,2.3944461
+RFEIEUS,200707,2.742,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-07-01,2007,7,24091,2.74,2.192,2.445,2.459,2.9073555
+RFEIEUS,200708,3.75,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-08-01,2007,8,24092,2.742,2.74,2.192,2.558,2.7155638
+RFEIEUS,200709,2.389,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-09-01,2007,9,24093,3.75,2.742,2.74,3.0773333333333333,2.3079457
+RFEIEUS,200710,2.256,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-10-01,2007,10,24094,2.389,3.75,2.742,2.9603333333333333,2.268335
+RFEIEUS,200711,1.072,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-11-01,2007,11,24095,2.256,2.389,3.75,2.7983333333333333,2.0763543
+RFEIEUS,200712,1.615,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-12-01,2007,12,24096,1.072,2.256,2.389,1.9056666666666668,1.6043586
+RFEIEUS,200801,1.616,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-01-01,2008,1,24097,1.615,1.072,2.256,1.6476666666666666,2.3384633
+RFEIEUS,200802,1.302,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-02-01,2008,2,24098,1.616,1.615,1.072,1.4343333333333332,1.5164206
+RFEIEUS,200803,1.151,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-03-01,2008,3,24099,1.302,1.616,1.615,1.5110000000000001,1.2067196
+RFEIEUS,200804,1.305,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-04-01,2008,4,24100,1.151,1.302,1.616,1.3563333333333334,1.0454682
+RFEIEUS,200805,1.396,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-05-01,2008,5,24101,1.305,1.151,1.302,1.2526666666666666,1.2876183
+RFEIEUS,200806,2.341,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-06-01,2008,6,24102,1.396,1.305,1.151,1.2839999999999998,1.4967568
+RFEIEUS,200807,1.927,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-07-01,2008,7,24103,2.341,1.396,1.305,1.6806666666666665,2.41071
+RFEIEUS,200808,1.621,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-08-01,2008,8,24104,1.927,2.341,1.396,1.888,1.9302094
+RFEIEUS,200809,1.948,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-09-01,2008,9,24105,1.621,1.927,2.341,1.963,1.5957958
+RFEIEUS,200810,1.173,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-10-01,2008,10,24106,1.948,1.621,1.927,1.832,1.7706767
+RFEIEUS,200811,1.311,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-11-01,2008,11,24107,1.173,1.948,1.621,1.5806666666666667,1.1197959
+RFEIEUS,200812,1.854,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-12-01,2008,12,24108,1.311,1.173,1.948,1.4773333333333334,1.4331013
+RFEIEUS,200901,2.96,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-01-01,2009,1,24109,1.854,1.311,1.173,1.446,2.123606
+RFEIEUS,200902,1.181,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-02-01,2009,2,24110,2.96,1.854,1.311,2.0416666666666665,2.3869212
+RFEIEUS,200903,1.002,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-03-01,2009,3,24111,1.181,2.96,1.854,1.9983333333333333,1.1199219
+RFEIEUS,200904,0.847,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-04-01,2009,4,24112,1.002,1.181,2.96,1.7143333333333333,1.1201389
+RFEIEUS,200905,1.105,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-05-01,2009,5,24113,0.847,1.002,1.181,1.01,0.92271423
+RFEIEUS,200906,1.161,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-06-01,2009,6,24114,1.105,0.847,1.002,0.9846666666666666,1.110896
+RFEIEUS,200907,1.267,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-07-01,2009,7,24115,1.161,1.105,0.847,1.0376666666666667,1.164602
+RFEIEUS,200908,1.497,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-08-01,2009,8,24116,1.267,1.161,1.105,1.1776666666666666,1.1501377
+RFEIEUS,200909,0.934,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-09-01,2009,9,24117,1.497,1.267,1.161,1.3083333333333333,1.3926663
+RFEIEUS,200910,1.052,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-10-01,2009,10,24118,0.934,1.497,1.267,1.2326666666666666,0.959633
+RFEIEUS,200911,0.624,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-11-01,2009,11,24119,1.052,0.934,1.497,1.161,1.0099523
+RFEIEUS,200912,0.629,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-12-01,2009,12,24120,0.624,1.052,0.934,0.87,0.91897416
+RFEIEUS,201001,1.43,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-01-01,2010,1,24121,0.629,0.624,1.052,0.7683333333333332,0.92445153
+RFEIEUS,201002,0.525,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-02-01,2010,2,24122,1.43,0.629,0.624,0.8943333333333333,0.8916955
+RFEIEUS,201003,0.622,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-03-01,2010,3,24123,0.525,1.43,0.629,0.8613333333333332,0.5904776
+RFEIEUS,201004,0.601,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-04-01,2010,4,24124,0.622,0.525,1.43,0.859,0.6933932
+RFEIEUS,201005,1.018,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-05-01,2010,5,24125,0.601,0.622,0.525,0.5826666666666667,0.6065853
+RFEIEUS,201006,1.559,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-06-01,2010,6,24126,1.018,0.601,0.622,0.7469999999999999,0.97920936
+RFEIEUS,201007,1.848,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-07-01,2010,7,24127,1.559,1.018,0.601,1.0593333333333332,1.4704874
+RFEIEUS,201008,1.511,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-08-01,2010,8,24128,1.848,1.559,1.018,1.4749999999999999,1.8553367
+RFEIEUS,201009,0.914,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-09-01,2010,9,24129,1.511,1.848,1.559,1.6393333333333333,1.4458241
+RFEIEUS,201010,0.575,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-10-01,2010,10,24130,0.914,1.511,1.848,1.4243333333333332,1.036057
+RFEIEUS,201011,0.513,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-11-01,2010,11,24131,0.575,0.914,1.511,1.0,0.63367814
+RFEIEUS,201012,1.021,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-12-01,2010,12,24132,0.513,0.575,0.914,0.6673333333333332,0.81919014
+RFEIEUS,201101,0.865,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-01-01,2011,1,24133,1.021,0.513,0.575,0.703,0.9881389
+RFEIEUS,201102,0.507,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-02-01,2011,2,24134,0.865,1.021,0.513,0.7996666666666666,0.70815754
+RFEIEUS,201103,0.571,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-03-01,2011,3,24135,0.507,0.865,1.021,0.7976666666666666,0.66338944
+RFEIEUS,201104,0.686,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-04-01,2011,4,24136,0.571,0.507,0.865,0.6476666666666667,0.6174327
+RFEIEUS,201105,0.637,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-05-01,2011,5,24137,0.686,0.571,0.507,0.588,0.67303264
+RFEIEUS,201106,0.646,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-06-01,2011,6,24138,0.637,0.686,0.571,0.6313333333333334,0.7555724
+RFEIEUS,201107,0.797,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-07-01,2011,7,24139,0.646,0.637,0.686,0.6563333333333333,0.7818635
+RFEIEUS,201108,0.681,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-08-01,2011,8,24140,0.797,0.646,0.637,0.6933333333333334,0.8116411
+RFEIEUS,201109,0.496,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-09-01,2011,9,24141,0.681,0.797,0.646,0.7080000000000001,0.59189326
+RFEIEUS,201110,0.49,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-10-01,2011,10,24142,0.496,0.681,0.797,0.658,0.61891305
+RFEIEUS,201111,0.479,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-11-01,2011,11,24143,0.49,0.496,0.681,0.5556666666666666,0.50432503
+RFEIEUS,201112,0.478,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-12-01,2011,12,24144,0.479,0.49,0.496,0.4883333333333333,0.64228237
+RFEIEUS,201201,0.524,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-01-01,2012,1,24145,0.478,0.479,0.49,0.48233333333333334,0.7221746
+RFEIEUS,201202,0.394,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-02-01,2012,2,24146,0.524,0.478,0.479,0.49366666666666664,0.49050298
+RFEIEUS,201203,0.445,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-03-01,2012,3,24147,0.394,0.524,0.478,0.4653333333333333,0.42300084
+RFEIEUS,201204,0.416,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-04-01,2012,4,24148,0.445,0.394,0.524,0.4543333333333333,0.44950914
+RFEIEUS,201205,0.438,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-05-01,2012,5,24149,0.416,0.445,0.394,0.4183333333333333,0.4594307
+RFEIEUS,201206,0.676,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-06-01,2012,6,24150,0.438,0.416,0.445,0.433,0.5728047
+RFEIEUS,201207,0.804,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-07-01,2012,7,24151,0.676,0.438,0.416,0.51,0.73130035
+RFEIEUS,201208,0.584,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-08-01,2012,8,24152,0.804,0.676,0.438,0.6393333333333334,0.795522
+RFEIEUS,201209,0.438,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-09-01,2012,9,24153,0.584,0.804,0.676,0.6880000000000001,0.52244216
+RFEIEUS,201210,0.471,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-10-01,2012,10,24154,0.438,0.584,0.804,0.6086666666666667,0.52466726
+RFEIEUS,201211,0.421,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-11-01,2012,11,24155,0.471,0.438,0.584,0.49766666666666665,0.4943841
+RFEIEUS,201212,0.435,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-12-01,2012,12,24156,0.421,0.471,0.438,0.44333333333333336,0.49893308
+RFEIEUS,201301,0.763,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-01-01,2013,1,24157,0.435,0.421,0.471,0.4423333333333333,0.7258996
+RFEIEUS,201302,0.506,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-02-01,2013,2,24158,0.763,0.435,0.421,0.5396666666666666,0.6612846
+RFEIEUS,201303,0.437,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-03-01,2013,3,24159,0.506,0.763,0.435,0.568,0.5567954
+RFEIEUS,201304,0.443,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-04-01,2013,4,24160,0.437,0.506,0.763,0.5686666666666668,0.44370317
+RFEIEUS,201305,0.437,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-05-01,2013,5,24161,0.443,0.437,0.506,0.462,0.5378687
+RFEIEUS,201306,0.467,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-06-01,2013,6,24162,0.437,0.443,0.437,0.439,0.5744891
+RFEIEUS,201307,0.677,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-07-01,2013,7,24163,0.467,0.437,0.443,0.449,0.64965206
+RFEIEUS,201308,0.504,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-08-01,2013,8,24164,0.677,0.467,0.437,0.527,0.6648651
+RFEIEUS,201309,0.434,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-09-01,2013,9,24165,0.504,0.677,0.467,0.5493333333333333,0.47283742
+RFEIEUS,201310,0.432,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-10-01,2013,10,24166,0.434,0.504,0.677,0.5383333333333333,0.4530859
+RFEIEUS,201311,0.396,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-11-01,2013,11,24167,0.432,0.434,0.504,0.4566666666666667,0.4407163
+RFEIEUS,201312,0.588,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-12-01,2013,12,24168,0.396,0.432,0.434,0.4206666666666667,0.5042713
+RFEIEUS,201401,2.123,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-01-01,2014,1,24169,0.588,0.396,0.432,0.472,0.8330656
+RFEIEUS,201402,0.769,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-02-01,2014,2,24170,2.123,0.588,0.396,1.0356666666666667,1.2272031
+RFEIEUS,201403,0.877,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-03-01,2014,3,24171,0.769,2.123,0.588,1.1600000000000001,0.81079745
+RFEIEUS,201404,0.419,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-04-01,2014,4,24172,0.877,0.769,2.123,1.2563333333333333,0.9172206
+RFEIEUS,201405,0.369,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-05-01,2014,5,24173,0.419,0.877,0.769,0.6883333333333334,0.5105638
+RFEIEUS,201406,0.397,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-06-01,2014,6,24174,0.369,0.419,0.877,0.5549999999999999,0.5866563
+RFEIEUS,201407,0.48,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-07-01,2014,7,24175,0.397,0.369,0.419,0.395,0.5159468
+RFEIEUS,201408,0.5,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-08-01,2014,8,24176,0.48,0.397,0.369,0.41533333333333333,0.53833836
+RFEIEUS,201409,0.411,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-09-01,2014,9,24177,0.5,0.48,0.397,0.459,0.47935995
+RFEIEUS,201410,0.398,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-10-01,2014,10,24178,0.411,0.5,0.48,0.46366666666666667,0.37347305
+RFEIEUS,201411,0.383,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-11-01,2014,11,24179,0.398,0.411,0.5,0.4363333333333333,0.37347764
+RFEIEUS,201412,0.372,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-12-01,2014,12,24180,0.383,0.398,0.411,0.3973333333333333,0.500053
+RFEIEUS,201501,0.877,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-01-01,2015,1,24181,0.372,0.383,0.398,0.38433333333333336,0.68188274
+RFEIEUS,201502,2.067,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-02-01,2015,2,24182,0.877,0.372,0.383,0.544,0.72706586
+RFEIEUS,201503,0.423,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-03-01,2015,3,24183,2.067,0.877,0.372,1.1053333333333335,1.3622781
+RFEIEUS,201504,0.417,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-04-01,2015,4,24184,0.423,2.067,0.877,1.1223333333333334,0.5081699
+RFEIEUS,201505,0.39,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-05-01,2015,5,24185,0.417,0.423,2.067,0.969,0.6166125
+RFEIEUS,201506,0.445,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-06-01,2015,6,24186,0.39,0.417,0.423,0.41,0.49639085
+RFEIEUS,201507,0.588,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-07-01,2015,7,24187,0.445,0.39,0.417,0.41733333333333333,0.59178287
+RFEIEUS,201508,0.529,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-08-01,2015,8,24188,0.588,0.445,0.39,0.47433333333333333,0.58255804
+RFEIEUS,201509,0.465,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-09-01,2015,9,24189,0.529,0.588,0.445,0.5206666666666666,0.4741549
+RFEIEUS,201510,0.428,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-10-01,2015,10,24190,0.465,0.529,0.588,0.5273333333333333,0.49971765
+RFEIEUS,201511,0.461,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-11-01,2015,11,24191,0.428,0.465,0.529,0.474,0.44353643
+RFEIEUS,201512,0.396,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-12-01,2015,12,24192,0.461,0.428,0.465,0.4513333333333333,0.62633824
+RFEIEUS,201601,0.528,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-01-01,2016,1,24193,0.396,0.461,0.428,0.4283333333333333,0.6712275
+RFEIEUS,201602,0.567,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-02-01,2016,2,24194,0.528,0.396,0.461,0.46166666666666667,0.60910314
+RFEIEUS,201603,0.334,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-03-01,2016,3,24195,0.567,0.528,0.396,0.49699999999999994,0.5770713
+RFEIEUS,201604,0.34,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-04-01,2016,4,24196,0.334,0.567,0.528,0.47633333333333333,0.35687444
+RFEIEUS,201605,0.368,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-05-01,2016,5,24197,0.34,0.334,0.567,0.4136666666666667,0.44824496
+RFEIEUS,201606,0.42,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-06-01,2016,6,24198,0.368,0.34,0.334,0.3473333333333333,0.389211
+RFEIEUS,201607,0.662,5,Residual Fuel Oil Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-07-01,2016,7,24199,0.42,0.368,0.34,0.37599999999999995,0.43961635
+TXEIEUS,197304,93.183,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1973-04-01,1973,4,23680,99.112,99.185,111.621,103.306,73.98005
+TXEIEUS,197305,98.012,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1973-05-01,1973,5,23681,93.183,99.112,99.185,97.16000000000001,71.402275
+TXEIEUS,197306,109.66,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1973-06-01,1973,6,23682,98.012,93.183,99.112,96.769,80.63492
+TXEIEUS,197307,120.935,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1973-07-01,1973,7,23683,109.66,98.012,93.183,100.28500000000001,88.597084
+TXEIEUS,197308,125.189,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1973-08-01,1973,8,23684,120.935,109.66,98.012,109.53566666666666,97.67505
+TXEIEUS,197309,111.452,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1973-09-01,1973,9,23685,125.189,120.935,109.66,118.59466666666667,88.79849
+TXEIEUS,197310,109.291,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1973-10-01,1973,10,23686,111.452,125.189,120.935,119.19200000000001,79.917114
+TXEIEUS,197311,103.624,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1973-11-01,1973,11,23687,109.291,111.452,125.189,115.31066666666668,80.30749
+TXEIEUS,197312,105.089,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1973-12-01,1973,12,23688,103.624,109.291,111.452,108.12233333333332,84.27682
+TXEIEUS,197401,105.53,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1974-01-01,1974,1,23689,105.089,103.624,109.291,106.00133333333333,85.763794
+TXEIEUS,197402,93.928,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1974-02-01,1974,2,23690,105.53,105.089,103.624,104.74766666666666,74.00237
+TXEIEUS,197403,97.857,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1974-03-01,1974,3,23691,93.928,105.53,105.089,101.51566666666668,74.13349
+TXEIEUS,197404,92.293,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1974-04-01,1974,4,23692,97.857,93.928,105.53,99.105,73.89649
+TXEIEUS,197405,101.357,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1974-05-01,1974,5,23693,92.293,97.857,93.928,94.69266666666665,70.72537
+TXEIEUS,197406,103.819,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1974-06-01,1974,6,23694,101.357,92.293,97.857,97.169,79.57405
+TXEIEUS,197407,120.201,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1974-07-01,1974,7,23695,103.819,101.357,92.293,99.15633333333334,83.56149
+TXEIEUS,197408,117.328,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1974-08-01,1974,8,23696,120.201,103.819,101.357,108.459,96.69388
+TXEIEUS,197409,102.157,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1974-09-01,1974,9,23697,117.328,120.201,103.819,113.78266666666667,88.61278
+TXEIEUS,197410,104.099,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1974-10-01,1974,10,23698,102.157,117.328,120.201,113.22866666666665,75.428825
+TXEIEUS,197411,102.631,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1974-11-01,1974,11,23699,104.099,102.157,117.328,107.86133333333333,77.13835
+TXEIEUS,197412,109.443,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1974-12-01,1974,12,23700,102.631,104.099,102.157,102.96233333333333,83.9918
+TXEIEUS,197501,110.308,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1975-01-01,1975,1,23701,109.443,102.631,104.099,105.391,90.58923
+TXEIEUS,197502,96.731,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1975-02-01,1975,2,23702,110.308,109.443,102.631,107.46066666666667,78.38827
+TXEIEUS,197503,97.85,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1975-03-01,1975,3,23703,96.731,110.308,109.443,105.49399999999999,74.76496
+TXEIEUS,197504,91.834,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1975-04-01,1975,4,23704,97.85,96.731,110.308,101.62966666666667,73.28326
+TXEIEUS,197505,95.107,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1975-05-01,1975,5,23705,91.834,97.85,96.731,95.47166666666668,70.66378
+TXEIEUS,197506,104.646,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1975-06-01,1975,6,23706,95.107,91.834,97.85,94.93033333333334,76.4397
+TXEIEUS,197507,115.641,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1975-07-01,1975,7,23707,104.646,95.107,91.834,97.19566666666667,84.34663
+TXEIEUS,197508,120.746,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1975-08-01,1975,8,23708,115.641,104.646,95.107,105.13133333333333,89.31649
+TXEIEUS,197509,101.583,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1975-09-01,1975,9,23709,120.746,115.641,104.646,113.67766666666667,89.06677
+TXEIEUS,197510,100.361,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1975-10-01,1975,10,23710,101.583,120.746,115.641,112.65666666666668,76.12042
+TXEIEUS,197511,98.508,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1975-11-01,1975,11,23711,100.361,101.583,120.746,107.56333333333333,76.718346
+TXEIEUS,197512,110.499,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1975-12-01,1975,12,23712,98.508,100.361,101.583,100.15066666666667,85.736916
+TXEIEUS,197601,119.925,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1976-01-01,1976,1,23713,110.499,98.508,100.361,103.12266666666666,94.22806
+TXEIEUS,197602,103.073,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1976-02-01,1976,2,23714,119.925,110.499,98.508,109.644,92.662834
+TXEIEUS,197603,107.043,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1976-03-01,1976,3,23715,103.073,119.925,110.499,111.16566666666665,83.816574
+TXEIEUS,197604,100.797,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1976-04-01,1976,4,23716,107.043,103.073,119.925,110.01366666666667,75.92935
+TXEIEUS,197605,102.075,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1976-05-01,1976,5,23717,100.797,107.043,103.073,103.63766666666668,78.99715
+TXEIEUS,197606,112.321,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1976-06-01,1976,6,23718,102.075,100.797,107.043,103.305,82.825485
+TXEIEUS,197607,122.425,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1976-07-01,1976,7,23719,112.321,102.075,100.797,105.06433333333332,94.62061
+TXEIEUS,197608,123.946,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1976-08-01,1976,8,23720,122.425,112.321,102.075,112.27366666666667,99.88616
+TXEIEUS,197609,109.001,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1976-09-01,1976,9,23721,123.946,122.425,112.321,119.56400000000001,89.023994
+TXEIEUS,197610,109.026,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1976-10-01,1976,10,23722,109.001,123.946,122.425,118.45733333333332,79.49643
+TXEIEUS,197611,116.306,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1976-11-01,1976,11,23723,109.026,109.001,123.946,113.991,79.655
+TXEIEUS,197612,125.248,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1976-12-01,1976,12,23724,116.306,109.026,109.001,111.44433333333332,103.16067
+TXEIEUS,197701,135.347,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1977-01-01,1977,1,23725,125.248,116.306,109.026,116.86,105.56425
+TXEIEUS,197702,111.845,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1977-02-01,1977,2,23726,135.347,125.248,116.306,125.63366666666667,104.95222
+TXEIEUS,197703,111.699,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1977-03-01,1977,3,23727,111.845,135.347,125.248,124.14666666666669,84.803314
+TXEIEUS,197704,102.71,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1977-04-01,1977,4,23728,111.699,111.845,135.347,119.63033333333334,80.27373
+TXEIEUS,197705,112.931,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1977-05-01,1977,5,23729,102.71,111.699,111.845,108.75133333333333,81.73109
+TXEIEUS,197706,122.668,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1977-06-01,1977,6,23730,112.931,102.71,111.699,109.11333333333333,93.10798
+TXEIEUS,197707,139.982,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1977-07-01,1977,7,23731,122.668,112.931,102.71,112.76966666666665,105.85741
+TXEIEUS,197708,135.926,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1977-08-01,1977,8,23732,139.982,122.668,112.931,125.19366666666667,117.34238
+TXEIEUS,197709,121.229,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1977-09-01,1977,9,23733,135.926,139.982,122.668,132.85866666666666,103.68464
+TXEIEUS,197710,112.595,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1977-10-01,1977,10,23734,121.229,135.926,139.982,132.379,93.81571
+TXEIEUS,197711,112.038,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1977-11-01,1977,11,23735,112.595,121.229,135.926,123.25,87.051506
+TXEIEUS,197712,123.157,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1977-12-01,1977,12,23736,112.038,112.595,121.229,115.28733333333332,92.967445
+TXEIEUS,197801,131.65,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1978-01-01,1978,1,23737,123.157,112.038,112.595,115.93,105.4339
+TXEIEUS,197802,116.041,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1978-02-01,1978,2,23738,131.65,123.157,112.038,122.28166666666665,100.48384
+TXEIEUS,197803,112.178,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1978-03-01,1978,3,23739,116.041,131.65,123.157,123.61599999999999,89.11425
+TXEIEUS,197804,102.578,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1978-04-01,1978,4,23740,112.178,116.041,131.65,119.95633333333335,85.095924
+TXEIEUS,197805,109.503,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1978-05-01,1978,5,23741,102.578,112.178,116.041,110.26566666666666,82.03438
+TXEIEUS,197806,121.781,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1978-06-01,1978,6,23742,109.503,102.578,112.178,108.08633333333331,91.062836
+TXEIEUS,197807,133.041,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1978-07-01,1978,7,23743,121.781,109.503,102.578,111.28733333333332,107.00061
+TXEIEUS,197808,138.189,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1978-08-01,1978,8,23744,133.041,121.781,109.503,121.44166666666665,107.9611
+TXEIEUS,197809,124.201,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1978-09-01,1978,9,23745,138.189,133.041,121.781,131.00366666666665,104.34465
+TXEIEUS,197810,115.699,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1978-10-01,1978,10,23746,124.201,138.189,133.041,131.81033333333332,97.00594
+TXEIEUS,197811,114.853,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1978-11-01,1978,11,23747,115.699,124.201,138.189,126.02966666666664,87.711235
+TXEIEUS,197812,127.944,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1978-12-01,1978,12,23748,114.853,115.699,124.201,118.25099999999998,97.68388
+TXEIEUS,197901,140.07,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1979-01-01,1979,1,23749,127.944,114.853,115.699,119.49866666666667,110.045265
+TXEIEUS,197902,124.162,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1979-02-01,1979,2,23750,140.07,127.944,114.853,127.62233333333332,111.08172
+TXEIEUS,197903,116.862,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1979-03-01,1979,3,23751,124.162,140.07,127.944,130.72533333333334,102.033455
+TXEIEUS,197904,109.913,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1979-04-01,1979,4,23752,116.862,124.162,140.07,127.03133333333334,93.044205
+TXEIEUS,197905,116.843,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1979-05-01,1979,5,23753,109.913,116.862,124.162,116.979,87.45871
+TXEIEUS,197906,126.24,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1979-06-01,1979,6,23754,116.843,109.913,116.862,114.53933333333333,104.13416
+TXEIEUS,197907,138.705,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1979-07-01,1979,7,23755,126.24,116.843,109.913,117.66533333333332,109.33742
+TXEIEUS,197908,139.994,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1979-08-01,1979,8,23756,138.705,126.24,116.843,127.26266666666668,118.60682
+TXEIEUS,197909,122.045,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1979-09-01,1979,9,23757,139.994,138.705,126.24,134.9796666666667,107.79143
+TXEIEUS,197910,120.909,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1979-10-01,1979,10,23758,122.045,139.994,138.705,133.58133333333333,99.06803
+TXEIEUS,197911,120.045,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1979-11-01,1979,11,23759,120.909,122.045,139.994,127.64933333333333,99.744995
+TXEIEUS,197912,129.459,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1979-12-01,1979,12,23760,120.045,120.909,122.045,120.99966666666667,111.34784
+TXEIEUS,198001,136.831,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1980-01-01,1980,1,23761,129.459,120.045,120.909,123.471,114.43848
+TXEIEUS,198002,129.981,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1980-02-01,1980,2,23762,136.831,129.459,120.045,128.77833333333334,109.83941
+TXEIEUS,198003,125.79,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1980-03-01,1980,3,23763,129.981,136.831,129.459,132.09033333333332,107.25094
+TXEIEUS,198004,108.785,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1980-04-01,1980,4,23764,125.79,129.981,136.831,130.86733333333333,98.97425
+TXEIEUS,198005,111.839,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1980-05-01,1980,5,23765,108.785,125.79,129.981,121.51866666666666,90.50327
+TXEIEUS,198006,124.923,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1980-06-01,1980,6,23766,111.839,108.785,125.79,115.47133333333333,99.42667
+TXEIEUS,198007,149.631,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1980-07-01,1980,7,23767,124.923,111.839,108.785,115.18233333333332,118.64245
+TXEIEUS,198008,149.303,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1980-08-01,1980,8,23768,149.631,124.923,111.839,128.7976666666667,122.644
+TXEIEUS,198009,130.186,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1980-09-01,1980,9,23769,149.303,149.631,124.923,141.28566666666669,111.73253
+TXEIEUS,198010,119.708,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1980-10-01,1980,10,23770,130.186,149.303,149.631,143.04,101.753105
+TXEIEUS,198011,121.897,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1980-11-01,1980,11,23771,119.708,130.186,149.303,133.06566666666666,103.238335
+TXEIEUS,198012,134.835,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1980-12-01,1980,12,23772,121.897,119.708,130.186,123.93033333333334,112.76019
+TXEIEUS,198101,142.342,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1981-01-01,1981,1,23773,134.835,121.897,119.708,125.48000000000002,124.52828
+TXEIEUS,198102,121.677,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1981-02-01,1981,2,23774,142.342,134.835,121.897,133.0246666666667,109.2881
+TXEIEUS,198103,125.022,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1981-03-01,1981,3,23775,121.677,142.342,134.835,132.95133333333334,107.26659
+TXEIEUS,198104,114.698,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1981-04-01,1981,4,23776,125.022,121.677,142.342,129.68033333333335,101.38539
+TXEIEUS,198105,118.463,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1981-05-01,1981,5,23777,114.698,125.022,121.677,120.46566666666668,98.64397
+TXEIEUS,198106,135.654,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1981-06-01,1981,6,23778,118.463,114.698,125.022,119.39433333333334,110.02405
+TXEIEUS,198107,150.184,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1981-07-01,1981,7,23779,135.654,118.463,114.698,122.93833333333333,124.50309
+TXEIEUS,198108,142.343,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1981-08-01,1981,8,23780,150.184,135.654,118.463,134.76700000000002,121.99833
+TXEIEUS,198109,126.522,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1981-09-01,1981,9,23781,142.343,150.184,135.654,142.727,112.011185
+TXEIEUS,198110,124.385,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1981-10-01,1981,10,23782,126.522,142.343,150.184,139.683,103.02516
+TXEIEUS,198111,118.495,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1981-11-01,1981,11,23783,124.385,126.522,142.343,131.08333333333334,104.87882
+TXEIEUS,198112,131.351,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1981-12-01,1981,12,23784,118.495,124.385,126.522,123.13400000000001,113.21895
+TXEIEUS,198201,143.436,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1982-01-01,1982,1,23785,131.351,118.495,124.385,124.74366666666667,119.34215
+TXEIEUS,198202,121.997,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1982-02-01,1982,2,23786,143.436,131.351,118.495,131.09400000000002,111.87414
+TXEIEUS,198203,120.043,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1982-03-01,1982,3,23787,121.997,143.436,131.351,132.26133333333334,106.03934
+TXEIEUS,198204,109.395,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1982-04-01,1982,4,23788,120.043,121.997,143.436,128.492,99.14374
+TXEIEUS,198205,113.232,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1982-05-01,1982,5,23789,109.395,120.043,121.997,117.145,98.00003
+TXEIEUS,198206,119.198,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1982-06-01,1982,6,23790,113.232,109.395,120.043,114.22333333333331,105.70211
+TXEIEUS,198207,140.505,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1982-07-01,1982,7,23791,119.198,113.232,109.395,113.94166666666666,118.09371
+TXEIEUS,198208,138.703,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1982-08-01,1982,8,23792,140.505,119.198,113.232,124.31166666666667,122.04249
+TXEIEUS,198209,120.982,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1982-09-01,1982,9,23793,138.703,140.505,119.198,132.802,108.70875
+TXEIEUS,198210,115.448,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1982-10-01,1982,10,23794,120.982,138.703,140.505,133.39666666666668,103.10213
+TXEIEUS,198211,115.37,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1982-11-01,1982,11,23795,115.448,120.982,138.703,125.04433333333333,98.022865
+TXEIEUS,198212,122.481,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1982-12-01,1982,12,23796,115.37,115.448,120.982,117.26666666666667,109.627014
+TXEIEUS,198301,128.058,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1983-01-01,1983,1,23797,122.481,115.37,115.448,117.76633333333332,112.95927
+TXEIEUS,198302,111.051,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1983-02-01,1983,2,23798,128.058,122.481,115.37,121.96966666666667,102.48321
+TXEIEUS,198303,115.299,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1983-03-01,1983,3,23799,111.051,128.058,122.481,120.52999999999999,96.84609
+TXEIEUS,198304,106.222,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1983-04-01,1983,4,23800,115.299,111.051,128.058,118.13600000000001,94.68305
+TXEIEUS,198305,110.188,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1983-05-01,1983,5,23801,106.222,115.299,111.051,110.85733333333333,96.680824
+TXEIEUS,198306,122.772,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1983-06-01,1983,6,23802,110.188,106.222,115.299,110.56966666666666,106.45838
+TXEIEUS,198307,149.242,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1983-07-01,1983,7,23803,122.772,110.188,106.222,113.06066666666668,124.88972
+TXEIEUS,198308,158.134,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1983-08-01,1983,8,23804,149.242,122.772,110.188,127.40066666666667,126.99818
+TXEIEUS,198309,133.465,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1983-09-01,1983,9,23805,158.134,149.242,122.772,143.38266666666667,124.03068
+TXEIEUS,198310,122.629,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1983-10-01,1983,10,23806,133.465,158.134,149.242,146.94699999999997,110.80686
+TXEIEUS,198311,121.029,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1983-11-01,1983,11,23807,122.629,133.465,158.134,138.076,109.10428
+TXEIEUS,198312,142.614,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1983-12-01,1983,12,23808,121.029,122.629,133.465,125.70766666666668,119.345566
+TXEIEUS,198401,144.431,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1984-01-01,1984,1,23809,142.614,121.029,122.629,128.75733333333332,129.4449
+TXEIEUS,198402,122.331,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1984-02-01,1984,2,23810,144.431,142.614,121.029,136.02466666666666,110.88639
+TXEIEUS,198403,128.451,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1984-03-01,1984,3,23811,122.331,144.431,142.614,136.45866666666666,112.71607
+TXEIEUS,198404,112.697,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1984-04-01,1984,4,23812,128.451,122.331,144.431,131.73766666666668,105.94286
+TXEIEUS,198405,119.727,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1984-05-01,1984,5,23813,112.697,128.451,122.331,121.15966666666668,104.65436
+TXEIEUS,198406,138.707,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1984-06-01,1984,6,23814,119.727,112.697,128.451,120.29166666666667,117.02424
+TXEIEUS,198407,147.482,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1984-07-01,1984,7,23815,138.707,119.727,112.697,123.71033333333334,129.71808
+TXEIEUS,198408,155.571,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1984-08-01,1984,8,23816,147.482,138.707,119.727,135.30533333333335,124.36757
+TXEIEUS,198409,129.556,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1984-09-01,1984,9,23817,155.571,147.482,138.707,147.25333333333336,122.75945
+TXEIEUS,198410,129.916,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1984-10-01,1984,10,23818,129.556,155.571,147.482,144.203,111.45729
+TXEIEUS,198411,128.686,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1984-11-01,1984,11,23819,129.916,129.556,155.571,138.34766666666667,113.74769
+TXEIEUS,198412,130.739,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1984-12-01,1984,12,23820,128.686,129.916,129.556,129.386,120.622444
+TXEIEUS,198501,148.124,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1985-01-01,1985,1,23821,130.739,128.686,129.916,129.78033333333335,126.442894
+TXEIEUS,198502,128.382,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1985-02-01,1985,2,23822,148.124,130.739,128.686,135.84966666666668,116.60368
+TXEIEUS,198503,125.403,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1985-03-01,1985,3,23823,128.382,148.124,130.739,135.74833333333336,118.065475
+TXEIEUS,198504,118.263,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1985-04-01,1985,4,23824,125.403,128.382,148.124,133.96966666666668,109.13488
+TXEIEUS,198505,126.391,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1985-05-01,1985,5,23825,118.263,125.403,128.382,124.01600000000002,114.874245
+TXEIEUS,198506,135.44,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1985-06-01,1985,6,23826,126.391,118.263,125.403,123.35233333333333,120.60811
+TXEIEUS,198507,152.033,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1985-07-01,1985,7,23827,135.44,126.391,118.263,126.69800000000002,132.68065
+TXEIEUS,198508,152.032,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1985-08-01,1985,8,23828,152.033,135.44,126.391,137.95466666666667,127.18669
+TXEIEUS,198509,133.327,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1985-09-01,1985,9,23829,152.032,152.033,135.44,146.50166666666667,118.90691
+TXEIEUS,198510,128.379,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1985-10-01,1985,10,23830,133.327,152.032,152.033,145.79733333333334,116.20046
+TXEIEUS,198511,125.524,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1985-11-01,1985,11,23831,128.379,133.327,152.032,137.91266666666667,113.14791
+TXEIEUS,198512,145.847,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1985-12-01,1985,12,23832,125.524,128.379,133.327,129.07666666666668,125.83553
+TXEIEUS,198601,146.238,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1986-01-01,1986,1,23833,145.847,125.524,128.379,133.25,127.732025
+TXEIEUS,198602,125.584,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1986-02-01,1986,2,23834,146.238,145.847,125.524,139.203,114.74827
+TXEIEUS,198603,124.488,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1986-03-01,1986,3,23835,125.584,146.238,145.847,139.22299999999998,117.01288
+TXEIEUS,198604,113.796,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1986-04-01,1986,4,23836,124.488,125.584,146.238,132.10333333333335,109.3395
+TXEIEUS,198605,123.183,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1986-05-01,1986,5,23837,113.796,124.488,125.584,121.28933333333335,111.227974
+TXEIEUS,198606,140.521,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1986-06-01,1986,6,23838,123.183,113.796,124.488,120.48900000000002,120.082565
+TXEIEUS,198607,164.772,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1986-07-01,1986,7,23839,140.521,123.183,113.796,125.83333333333333,136.12593
+TXEIEUS,198608,150.086,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1986-08-01,1986,8,23840,164.772,140.521,123.183,142.82533333333333,137.03424
+TXEIEUS,198609,134.476,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1986-09-01,1986,9,23841,150.086,164.772,140.521,151.793,118.48533
+TXEIEUS,198610,127.245,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1986-10-01,1986,10,23842,134.476,150.086,164.772,149.77800000000002,120.193634
+TXEIEUS,198611,126.28,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1986-11-01,1986,11,23843,127.245,134.476,150.086,137.269,114.35915
+TXEIEUS,198612,136.58,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1986-12-01,1986,12,23844,126.28,127.245,134.476,129.3336666666667,124.532936
+TXEIEUS,198701,144.198,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1987-01-01,1987,1,23845,136.58,126.28,127.245,130.035,127.91226
+TXEIEUS,198702,124.139,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1987-02-01,1987,2,23846,144.198,136.58,126.28,135.686,114.04099
+TXEIEUS,198703,127.409,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1987-03-01,1987,3,23847,124.139,144.198,136.58,134.97233333333335,118.22656
+TXEIEUS,198704,120.062,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1987-04-01,1987,4,23848,127.409,124.139,144.198,131.91533333333334,111.3271
+TXEIEUS,198705,132.209,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1987-05-01,1987,5,23849,120.062,127.409,124.139,123.87,116.638596
+TXEIEUS,198706,150.415,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1987-06-01,1987,6,23850,132.209,120.062,127.409,126.56,133.01347
+TXEIEUS,198707,168.404,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1987-07-01,1987,7,23851,150.415,132.209,120.062,134.22866666666667,142.4096
+TXEIEUS,198708,167.12,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1987-08-01,1987,8,23852,168.404,150.415,132.209,150.34266666666667,139.71085
+TXEIEUS,198709,138.786,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1987-09-01,1987,9,23853,167.12,168.404,150.415,161.97966666666665,130.33606
+TXEIEUS,198710,132.175,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1987-10-01,1987,10,23854,138.786,167.12,168.404,158.10333333333335,121.42852
+TXEIEUS,198711,131.077,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1987-11-01,1987,11,23855,132.175,138.786,167.12,146.02700000000002,123.25269
+TXEIEUS,198712,144.196,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1987-12-01,1987,12,23856,131.077,132.175,138.786,134.01266666666666,133.95107
+TXEIEUS,198801,155.897,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-01-01,1988,1,23857,144.196,131.077,132.175,135.816,135.61957
+TXEIEUS,198802,139.659,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-02-01,1988,2,23858,155.897,144.196,131.077,143.72333333333333,125.253456
+TXEIEUS,198803,134.642,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-03-01,1988,3,23859,139.659,155.897,144.196,146.58399999999997,127.78425
+TXEIEUS,198804,123.508,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-04-01,1988,4,23860,134.642,139.659,155.897,143.39933333333332,117.65257
+TXEIEUS,198805,130.193,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-05-01,1988,5,23861,123.508,134.642,139.659,132.60299999999998,121.30186
+TXEIEUS,198806,151.977,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-06-01,1988,6,23862,130.193,123.508,134.642,129.44766666666666,132.28516
+TXEIEUS,198807,170.606,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-07-01,1988,7,23863,151.977,130.193,123.508,135.226,144.23354
+TXEIEUS,198808,180.115,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-08-01,1988,8,23864,170.606,151.977,130.193,150.92533333333336,146.15767
+TXEIEUS,198809,141.918,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-09-01,1988,9,23865,180.115,170.606,151.977,167.566,132.3957
+TXEIEUS,198810,137.857,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-10-01,1988,10,23866,141.918,180.115,170.606,164.213,127.56904
+TXEIEUS,198811,136.908,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-11-01,1988,11,23867,137.857,141.918,180.115,153.29666666666668,126.084175
+TXEIEUS,198812,154.24,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1988-12-01,1988,12,23868,136.908,137.857,141.918,138.89433333333332,137.88438
+TXEIEUS,198901,154.279,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-01-01,1989,1,23869,154.24,136.908,137.857,143.00166666666667,142.32065
+TXEIEUS,198902,149.815,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-02-01,1989,2,23870,154.279,154.24,136.908,148.47566666666668,126.7701
+TXEIEUS,198903,149.811,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-03-01,1989,3,23871,149.815,154.279,154.24,152.778,129.4071
+TXEIEUS,198904,135.413,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-04-01,1989,4,23872,149.811,149.815,154.279,151.30166666666665,122.68925
+TXEIEUS,198905,139.943,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-05-01,1989,5,23873,135.413,149.811,149.815,145.013,132.18808
+TXEIEUS,198906,152.763,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-06-01,1989,6,23874,139.943,135.413,149.811,141.72233333333335,138.78241
+TXEIEUS,198907,168.227,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-07-01,1989,7,23875,152.763,139.943,135.413,142.70633333333333,149.63197
+TXEIEUS,198908,168.106,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-08-01,1989,8,23876,168.227,152.763,139.943,153.64433333333332,144.96315
+TXEIEUS,198909,149.789,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-09-01,1989,9,23877,168.106,168.227,152.763,163.032,133.87964
+TXEIEUS,198910,142.713,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-10-01,1989,10,23878,149.789,168.106,168.227,162.04066666666665,132.69762
+TXEIEUS,198911,142.253,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-11-01,1989,11,23879,142.713,149.789,168.106,153.536,130.95605
+TXEIEUS,198912,172.45,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1989-12-01,1989,12,23880,142.253,142.713,149.789,144.91833333333332,141.15001
+TXEIEUS,199001,152.617,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-01-01,1990,1,23881,172.45,142.253,142.713,152.472,141.93094
+TXEIEUS,199002,133.194,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-02-01,1990,2,23882,152.617,172.45,142.253,155.7733333333333,122.47096
+TXEIEUS,199003,142.714,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-03-01,1990,3,23883,133.194,152.617,172.45,152.75366666666665,126.59048
+TXEIEUS,199004,137.7,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-04-01,1990,4,23884,142.714,133.194,152.617,142.84166666666667,121.68992
+TXEIEUS,199005,142.64,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-05-01,1990,5,23885,137.7,142.714,133.194,137.86933333333334,135.1724
+TXEIEUS,199006,161.339,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-06-01,1990,6,23886,142.64,137.7,142.714,141.018,143.18744
+TXEIEUS,199007,175.357,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-07-01,1990,7,23887,161.339,142.64,137.7,147.22633333333332,156.56474
+TXEIEUS,199008,177.864,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-08-01,1990,8,23888,175.357,161.339,142.64,159.77866666666668,152.19792
+TXEIEUS,199009,160.495,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-09-01,1990,9,23889,177.864,175.357,161.339,171.51999999999998,139.34102
+TXEIEUS,199010,151.825,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-10-01,1990,10,23890,160.495,177.864,175.357,171.23866666666666,138.31743
+TXEIEUS,199011,139.711,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-11-01,1990,11,23891,151.825,160.495,177.864,163.39466666666667,135.58154
+TXEIEUS,199012,155.545,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1990-12-01,1990,12,23892,139.711,151.825,160.495,150.677,145.07523
+TXEIEUS,199101,162.891,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-01-01,1991,1,23893,155.545,139.711,151.825,149.02700000000002,149.46817
+TXEIEUS,199102,134.881,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-02-01,1991,2,23894,162.891,155.545,139.711,152.71566666666666,123.92243
+TXEIEUS,199103,139.285,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-03-01,1991,3,23895,134.881,162.891,155.545,151.10566666666668,130.08403
+TXEIEUS,199104,132.445,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-04-01,1991,4,23896,139.285,134.881,162.891,145.68566666666666,122.06775
+TXEIEUS,199105,148.637,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-05-01,1991,5,23897,132.445,139.285,134.881,135.537,134.05658
+TXEIEUS,199106,158.642,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-06-01,1991,6,23898,148.637,132.445,139.285,140.12233333333333,145.60019
+TXEIEUS,199107,175.298,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-07-01,1991,7,23899,158.642,148.637,132.445,146.57466666666667,158.77122
+TXEIEUS,199108,175.643,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-08-01,1991,8,23900,175.298,158.642,148.637,160.859,154.33443
+TXEIEUS,199109,153.936,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-09-01,1991,9,23901,175.643,175.298,158.642,169.861,138.48912
+TXEIEUS,199110,147.112,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-10-01,1991,10,23902,153.936,175.643,175.298,168.29233333333335,134.88063
+TXEIEUS,199111,148.006,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-11-01,1991,11,23903,147.112,153.936,175.643,158.89700000000002,133.09009
+TXEIEUS,199112,152.78,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1991-12-01,1991,12,23904,148.006,147.112,153.936,149.68466666666666,145.2084
+TXEIEUS,199201,158.386,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-01-01,1992,1,23905,152.78,148.006,147.112,149.29933333333335,147.27698
+TXEIEUS,199202,140.479,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-02-01,1992,2,23906,158.386,152.78,148.006,153.05733333333333,127.322624
+TXEIEUS,199203,148.551,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-03-01,1992,3,23907,140.479,158.386,152.78,150.54833333333332,132.6845
+TXEIEUS,199204,140.197,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-04-01,1992,4,23908,148.551,140.479,158.386,149.1386666666667,127.082085
+TXEIEUS,199205,143.24,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-05-01,1992,5,23909,140.197,148.551,140.479,143.07566666666665,138.65602
+TXEIEUS,199206,154.249,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-06-01,1992,6,23910,143.24,140.197,148.551,143.99599999999998,145.31847
+TXEIEUS,199207,179.331,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-07-01,1992,7,23911,154.249,143.24,140.197,145.89533333333335,156.26773
+TXEIEUS,199208,169.657,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-08-01,1992,8,23912,179.331,154.249,143.24,158.94000000000003,153.04065
+TXEIEUS,199209,158.052,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-09-01,1992,9,23913,169.657,179.331,154.249,167.74566666666666,137.3285
+TXEIEUS,199210,147.602,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-10-01,1992,10,23914,158.052,169.657,179.331,169.01333333333332,138.70428
+TXEIEUS,199211,145.608,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-11-01,1992,11,23915,147.602,158.052,169.657,158.43699999999998,134.41281
+TXEIEUS,199212,158.07,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1992-12-01,1992,12,23916,145.608,147.602,158.052,150.42066666666668,147.75717
+TXEIEUS,199301,158.102,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-01-01,1993,1,23917,158.07,145.608,147.602,150.42666666666668,149.47896
+TXEIEUS,199302,146.415,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-02-01,1993,2,23918,158.102,158.07,145.608,153.92666666666665,126.404594
+TXEIEUS,199303,156.583,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-03-01,1993,3,23919,146.415,158.102,158.07,154.19566666666665,135.65083
+TXEIEUS,199304,137.272,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-04-01,1993,4,23920,156.583,146.415,158.102,153.70000000000002,130.07634
+TXEIEUS,199305,137.797,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-05-01,1993,5,23921,137.272,156.583,146.415,146.75666666666666,138.50882
+TXEIEUS,199306,162.339,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-06-01,1993,6,23922,137.797,137.272,156.583,143.884,145.29498
+TXEIEUS,199307,192.348,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-07-01,1993,7,23923,162.339,137.797,137.272,145.80266666666665,160.25792
+TXEIEUS,199308,192.755,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-08-01,1993,8,23924,192.348,162.339,137.797,164.16133333333332,153.11288
+TXEIEUS,199309,161.038,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-09-01,1993,9,23925,192.755,192.348,162.339,182.48066666666668,141.71448
+TXEIEUS,199310,154.377,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-10-01,1993,10,23926,161.038,192.755,192.348,182.04700000000003,141.4351
+TXEIEUS,199311,153.94,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-11-01,1993,11,23927,154.377,161.038,192.755,169.39000000000001,139.751
+TXEIEUS,199312,166.119,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1993-12-01,1993,12,23928,153.94,154.377,161.038,156.45166666666668,149.6856
+TXEIEUS,199401,179.406,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-01-01,1994,1,23929,166.119,153.94,154.377,158.14533333333335,151.55768
+TXEIEUS,199402,151.48,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-02-01,1994,2,23930,179.406,166.119,153.94,166.48833333333334,134.86063
+TXEIEUS,199403,153.927,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-03-01,1994,3,23931,151.48,179.406,166.119,165.66833333333332,140.41779
+TXEIEUS,199404,142.622,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-04-01,1994,4,23932,153.927,151.48,179.406,161.60433333333333,133.64923
+TXEIEUS,199405,148.932,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-05-01,1994,5,23933,142.622,153.927,151.48,149.343,142.76668
+TXEIEUS,199406,179.032,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-06-01,1994,6,23934,148.932,142.622,153.927,148.49366666666666,153.57204
+TXEIEUS,199407,188.384,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-07-01,1994,7,23935,179.032,148.932,142.622,156.862,159.31361
+TXEIEUS,199408,185.229,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-08-01,1994,8,23936,188.384,179.032,148.932,172.11599999999999,158.69131
+TXEIEUS,199409,159.637,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-09-01,1994,9,23937,185.229,188.384,179.032,184.215,144.61566
+TXEIEUS,199410,153.001,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-10-01,1994,10,23938,159.637,185.229,188.384,177.75,144.8729
+TXEIEUS,199411,145.415,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-11-01,1994,11,23939,153.001,159.637,185.229,165.95566666666667,142.70567
+TXEIEUS,199412,156.78,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1994-12-01,1994,12,23940,145.415,153.001,159.637,152.68433333333334,150.70155
+TXEIEUS,199501,162.453,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-01-01,1995,1,23941,156.78,145.415,153.001,151.732,153.36137
+TXEIEUS,199502,147.307,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-02-01,1995,2,23942,162.453,156.78,145.415,154.88266666666667,129.73763
+TXEIEUS,199503,148.955,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-03-01,1995,3,23943,147.307,162.453,156.78,155.51333333333335,140.1303
+TXEIEUS,199504,138.883,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-04-01,1995,4,23944,148.955,147.307,162.453,152.905,130.9934
+TXEIEUS,199505,149.16,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-05-01,1995,5,23945,138.883,148.955,147.307,145.04833333333335,141.60417
+TXEIEUS,199506,165.528,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-06-01,1995,6,23946,149.16,138.883,148.955,145.66600000000003,154.66856
+TXEIEUS,199507,196.531,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-07-01,1995,7,23947,165.528,149.16,138.883,151.1903333333333,160.5644
+TXEIEUS,199508,210.223,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-08-01,1995,8,23948,196.531,165.528,149.16,170.40633333333332,161.48418
+TXEIEUS,199509,165.644,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-09-01,1995,9,23949,210.223,196.531,165.528,190.76066666666665,146.36331
+TXEIEUS,199510,154.565,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-10-01,1995,10,23950,165.644,210.223,196.531,190.79933333333335,143.8811
+TXEIEUS,199511,153.476,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-11-01,1995,11,23951,154.565,165.644,210.223,176.81066666666666,143.9574
+TXEIEUS,199512,167.31,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1995-12-01,1995,12,23952,153.476,154.565,165.644,157.895,157.45415
+TXEIEUS,199601,174.947,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-01-01,1996,1,23953,167.31,153.476,154.565,158.45033333333333,157.3466
+TXEIEUS,199602,157.353,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-02-01,1996,2,23954,174.947,167.31,153.476,165.24433333333334,139.4473
+TXEIEUS,199603,156.669,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-03-01,1996,3,23955,157.353,174.947,167.31,166.53666666666666,144.08061
+TXEIEUS,199604,141.669,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-04-01,1996,4,23956,156.669,157.353,174.947,162.9896666666667,135.86981
+TXEIEUS,199605,159.645,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-05-01,1996,5,23957,141.669,156.669,157.353,151.89700000000002,146.02107
+TXEIEUS,199606,175.905,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-06-01,1996,6,23958,159.645,141.669,156.669,152.66100000000003,164.55008
+TXEIEUS,199607,195.976,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-07-01,1996,7,23959,175.905,159.645,141.669,159.073,169.17368
+TXEIEUS,199608,197.588,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-08-01,1996,8,23960,195.976,175.905,159.645,177.17533333333336,167.31055
+TXEIEUS,199609,171.205,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-09-01,1996,9,23961,197.588,195.976,175.905,189.823,153.36755
+TXEIEUS,199610,164.762,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-10-01,1996,10,23962,171.205,197.588,195.976,188.25633333333334,153.08751
+TXEIEUS,199611,165.142,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-11-01,1996,11,23963,164.762,171.205,197.588,177.8516666666667,150.48276
+TXEIEUS,199612,172.376,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1996-12-01,1996,12,23964,165.142,164.762,171.205,167.03633333333335,161.34035
+TXEIEUS,199701,180.85,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-01-01,1997,1,23965,172.376,165.142,164.762,167.42666666666665,158.67729
+TXEIEUS,199702,151.344,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-02-01,1997,2,23966,180.85,172.376,165.142,172.7893333333333,145.60915
+TXEIEUS,199703,157.196,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-03-01,1997,3,23967,151.344,180.85,172.376,168.19,143.70119
+TXEIEUS,199704,149.415,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-04-01,1997,4,23968,157.196,151.344,180.85,163.13,137.23589
+TXEIEUS,199705,159.138,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-05-01,1997,5,23969,149.415,157.196,151.344,152.65166666666667,148.2152
+TXEIEUS,199706,177.229,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-06-01,1997,6,23970,159.138,149.415,157.196,155.24966666666668,163.2984
+TXEIEUS,199707,210.528,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-07-01,1997,7,23971,177.229,159.138,149.415,161.92733333333334,174.12213
+TXEIEUS,199708,202.108,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-08-01,1997,8,23972,210.528,177.229,159.138,182.29833333333332,171.00299
+TXEIEUS,199709,185.167,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-09-01,1997,9,23973,202.108,210.528,177.229,196.62166666666667,155.48535
+TXEIEUS,199710,177.949,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-10-01,1997,10,23974,185.167,202.108,210.528,199.26766666666666,155.55896
+TXEIEUS,199711,167.052,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-11-01,1997,11,23975,177.949,185.167,202.108,188.408,155.27882
+TXEIEUS,199712,183.408,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1997-12-01,1997,12,23976,167.052,177.949,185.167,176.72266666666667,161.78017
+TXEIEUS,199801,179.875,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-01-01,1998,1,23977,183.408,167.052,177.949,176.13633333333334,161.03015
+TXEIEUS,199802,155.243,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-02-01,1998,2,23978,179.875,183.408,167.052,176.77833333333334,149.43451
+TXEIEUS,199803,167.968,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-03-01,1998,3,23979,155.243,179.875,183.408,172.84199999999998,151.13708
+TXEIEUS,199804,155.322,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-04-01,1998,4,23980,167.968,155.243,179.875,167.69533333333334,144.5951
+TXEIEUS,199805,178.251,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-05-01,1998,5,23981,155.322,167.968,155.243,159.511,156.169
+TXEIEUS,199806,199.776,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-06-01,1998,6,23982,178.251,155.322,167.968,167.18033333333332,170.36089
+TXEIEUS,199807,223.044,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-07-01,1998,7,23983,199.776,178.251,155.322,177.783,176.18483
+TXEIEUS,199808,222.919,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-08-01,1998,8,23984,223.044,199.776,178.251,200.357,172.7503
+TXEIEUS,199809,196.591,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-09-01,1998,9,23985,222.919,223.044,199.776,215.24633333333335,157.01622
+TXEIEUS,199810,174.025,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-10-01,1998,10,23986,196.591,222.919,223.044,214.1846666666667,156.71703
+TXEIEUS,199811,160.832,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-11-01,1998,11,23987,174.025,196.591,222.919,197.84500000000003,155.85701
+TXEIEUS,199812,177.925,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1998-12-01,1998,12,23988,160.832,174.025,196.591,177.14933333333332,161.98805
+TXEIEUS,199901,187.602,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-01-01,1999,1,23989,177.925,160.832,174.025,170.92733333333334,162.75865
+TXEIEUS,199902,159.889,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-02-01,1999,2,23990,187.602,177.925,160.832,175.453,150.28911
+TXEIEUS,199903,172.242,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-03-01,1999,3,23991,159.889,187.602,177.925,175.1386666666667,151.42793
+TXEIEUS,199904,167.411,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-04-01,1999,4,23992,172.242,159.889,187.602,173.24433333333332,149.13297
+TXEIEUS,199905,176.479,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-05-01,1999,5,23993,167.411,172.242,159.889,166.514,161.41544
+TXEIEUS,199906,194.32,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-06-01,1999,6,23994,176.479,167.411,172.242,172.044,170.654
+TXEIEUS,199907,229.734,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-07-01,1999,7,23995,194.32,176.479,167.411,179.40333333333334,175.14517
+TXEIEUS,199908,221.702,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-08-01,1999,8,23996,229.734,194.32,176.479,200.17766666666668,173.25233
+TXEIEUS,199909,185.95,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-09-01,1999,9,23997,221.702,229.734,194.32,215.25199999999998,157.4025
+TXEIEUS,199910,174.089,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-10-01,1999,10,23998,185.95,221.702,229.734,212.462,157.19855
+TXEIEUS,199911,161.286,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-11-01,1999,11,23999,174.089,185.95,221.702,193.91366666666667,156.57689
+TXEIEUS,199912,173.688,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,1999-12-01,1999,12,24000,161.286,174.089,185.95,173.77499999999998,162.9503
+TXEIEUS,200001,198.161,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-01-01,2000,1,24001,173.688,161.286,174.089,169.68766666666667,166.88574
+TXEIEUS,200002,176.637,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-02-01,2000,2,24002,198.161,173.688,161.286,177.71166666666667,154.24681
+TXEIEUS,200003,176.405,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-03-01,2000,3,24003,176.637,198.161,173.688,182.82866666666666,158.5768
+TXEIEUS,200004,162.198,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-04-01,2000,4,24004,176.405,176.637,198.161,183.73433333333332,153.74269
+TXEIEUS,200005,187.91,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-05-01,2000,5,24005,162.198,176.405,176.637,171.74666666666667,158.92406
+TXEIEUS,200006,204.228,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-06-01,2000,6,24006,187.91,162.198,176.405,175.50433333333334,171.09879
+TXEIEUS,200007,216.648,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-07-01,2000,7,24007,204.228,187.91,162.198,184.77866666666668,176.88991
+TXEIEUS,200008,229.031,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-08-01,2000,8,24008,216.648,204.228,187.91,202.9286666666667,175.45738
+TXEIEUS,200009,194.893,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-09-01,2000,9,24009,229.031,216.648,204.228,216.63566666666668,159.79443
+TXEIEUS,200010,184.188,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-10-01,2000,10,24010,194.893,229.031,216.648,213.524,160.09079
+TXEIEUS,200011,178.708,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-11-01,2000,11,24011,184.188,194.893,229.031,202.70399999999998,160.34174
+TXEIEUS,200012,201.162,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2000-12-01,2000,12,24012,178.708,184.188,194.893,185.92966666666666,167.72476
+TXEIEUS,200101,205.754,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-01-01,2001,1,24013,201.162,178.708,184.188,188.01933333333332,166.35422
+TXEIEUS,200102,172.46,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-02-01,2001,2,24014,205.754,201.162,178.708,195.208,152.9563
+TXEIEUS,200103,181.215,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-03-01,2001,3,24015,172.46,205.754,201.162,193.12533333333332,157.43846
+TXEIEUS,200104,167.18,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-04-01,2001,4,24016,181.215,172.46,205.754,186.47633333333332,152.37704
+TXEIEUS,200105,181.693,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-05-01,2001,5,24017,167.18,181.215,172.46,173.61833333333334,161.04718
+TXEIEUS,200106,196.906,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-06-01,2001,6,24018,181.693,167.18,181.215,176.696,170.24922
+TXEIEUS,200107,221.175,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-07-01,2001,7,24019,196.906,181.693,167.18,181.92633333333333,174.66191
+TXEIEUS,200108,230.623,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-08-01,2001,8,24020,221.175,196.906,181.693,199.9246666666667,173.62001
+TXEIEUS,200109,187.753,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-09-01,2001,9,24021,230.623,221.175,196.906,216.23466666666664,157.24329
+TXEIEUS,200110,178.04,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-10-01,2001,10,24022,187.753,230.623,221.175,213.18366666666665,157.0514
+TXEIEUS,200111,167.057,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-11-01,2001,11,24023,178.04,187.753,230.623,198.80533333333332,157.63005
+TXEIEUS,200112,182.78,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2001-12-01,2001,12,24024,167.057,178.04,187.753,177.61666666666665,164.73363
+TXEIEUS,200201,186.602,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-01-01,2002,1,24025,182.78,167.057,178.04,175.95899999999997,165.40219
+TXEIEUS,200202,163.832,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-02-01,2002,2,24026,186.602,182.78,167.057,178.81300000000002,152.05396
+TXEIEUS,200203,176.506,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-03-01,2002,3,24027,163.832,186.602,182.78,177.73799999999997,154.9063
+TXEIEUS,200204,167.726,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-04-01,2002,4,24028,176.506,163.832,186.602,175.64666666666668,152.26134
+TXEIEUS,200205,177.956,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-05-01,2002,5,24029,167.726,176.506,163.832,169.35466666666665,162.1924
+TXEIEUS,200206,199.152,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-06-01,2002,6,24030,177.956,167.726,176.506,174.06266666666667,172.29424
+TXEIEUS,200207,228.346,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-07-01,2002,7,24031,199.152,177.956,167.726,181.61133333333336,176.69475
+TXEIEUS,200208,225.562,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-08-01,2002,8,24032,228.346,199.152,177.956,201.81799999999998,175.54454
+TXEIEUS,200209,201.171,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-09-01,2002,9,24033,225.562,228.346,199.152,217.68666666666664,161.00838
+TXEIEUS,200210,187.652,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-10-01,2002,10,24034,201.171,225.562,228.346,218.35966666666664,160.7532
+TXEIEUS,200211,178.51,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-11-01,2002,11,24035,187.652,201.171,225.562,204.795,160.7862
+TXEIEUS,200212,195.02,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2002-12-01,2002,12,24036,178.51,187.652,201.171,189.111,169.12653
+TXEIEUS,200301,207.326,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-01-01,2003,1,24037,195.02,178.51,187.652,187.06066666666666,169.24579
+TXEIEUS,200302,180.384,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-02-01,2003,2,24038,207.326,195.02,178.51,193.61866666666666,156.5238
+TXEIEUS,200303,179.74,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-03-01,2003,3,24039,180.384,207.326,195.02,194.24333333333334,161.1027
+TXEIEUS,200304,165.635,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-04-01,2003,4,24040,179.74,180.384,207.326,189.15,154.97702
+TXEIEUS,200305,176.387,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-05-01,2003,5,24041,165.635,179.74,180.384,175.25300000000001,162.64388
+TXEIEUS,200306,193.6,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-06-01,2003,6,24042,176.387,165.635,179.74,173.92066666666665,173.25099
+TXEIEUS,200307,223.856,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-07-01,2003,7,24043,193.6,176.387,165.635,178.54066666666665,177.88708
+TXEIEUS,200308,230.083,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-08-01,2003,8,24044,223.856,193.6,176.387,197.94766666666666,176.59885
+TXEIEUS,200309,195.555,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-09-01,2003,9,24045,230.083,223.856,193.6,215.84633333333332,161.22105
+TXEIEUS,200310,185.535,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-10-01,2003,10,24046,195.555,230.083,223.856,216.49800000000002,161.13708
+TXEIEUS,200311,181.338,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-11-01,2003,11,24047,185.535,195.555,230.083,203.72433333333333,161.61713
+TXEIEUS,200312,199.731,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2003-12-01,2003,12,24048,181.338,185.535,195.555,187.476,170.40567
+TXEIEUS,200401,208.041,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-01-01,2004,1,24049,199.731,181.338,185.535,188.86799999999997,170.09636
+TXEIEUS,200402,186.364,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-02-01,2004,2,24050,208.041,199.731,181.338,196.37,157.90561
+TXEIEUS,200403,178.662,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-03-01,2004,3,24051,186.364,208.041,199.731,198.04533333333333,162.09105
+TXEIEUS,200404,167.661,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-04-01,2004,4,24052,178.662,186.364,208.041,191.02233333333334,156.15283
+TXEIEUS,200405,189.647,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-05-01,2004,5,24053,167.661,178.662,186.364,177.56233333333333,163.19702
+TXEIEUS,200406,201.553,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-06-01,2004,6,24054,189.647,167.661,178.662,178.65666666666667,174.53194
+TXEIEUS,200407,223.546,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-07-01,2004,7,24055,201.553,189.647,167.661,186.287,178.74942
+TXEIEUS,200408,219.452,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-08-01,2004,8,24056,223.546,201.553,189.647,204.91533333333334,177.66267
+TXEIEUS,200409,200.057,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-09-01,2004,9,24057,219.452,223.546,201.553,214.8503333333333,162.57028
+TXEIEUS,200410,186.825,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-10-01,2004,10,24058,200.057,219.452,223.546,214.35166666666666,162.89082
+TXEIEUS,200411,183.607,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-11-01,2004,11,24059,186.825,200.057,219.452,202.11133333333336,163.38055
+TXEIEUS,200412,204.962,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2004-12-01,2004,12,24060,183.607,186.825,200.057,190.163,172.74126
+TXEIEUS,200501,207.168,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-01-01,2005,1,24061,204.962,183.607,186.825,191.798,171.66742
+TXEIEUS,200502,178.449,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-02-01,2005,2,24062,207.168,204.962,183.607,198.57899999999998,159.50378
+TXEIEUS,200503,188.68,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-03-01,2005,3,24063,178.449,207.168,204.962,196.8596666666667,164.1785
+TXEIEUS,200504,168.484,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-04-01,2005,4,24064,188.68,178.449,207.168,191.43233333333333,157.94298
+TXEIEUS,200505,181.312,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-05-01,2005,5,24065,168.484,188.68,178.449,178.5376666666667,165.97075
+TXEIEUS,200506,213.461,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-06-01,2005,6,24066,181.312,168.484,188.68,179.492,178.00015
+TXEIEUS,200507,238.11,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-07-01,2005,7,24067,213.461,181.312,168.484,187.75233333333335,182.58127
+TXEIEUS,200508,242.093,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-08-01,2005,8,24068,238.11,213.461,181.312,210.961,181.62953
+TXEIEUS,200509,211.759,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-09-01,2005,9,24069,242.093,238.11,213.461,231.22133333333332,166.0135
+TXEIEUS,200510,193.713,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-10-01,2005,10,24070,211.759,242.093,238.11,230.654,165.46564
+TXEIEUS,200511,182.873,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-11-01,2005,11,24071,193.713,211.759,242.093,215.855,164.83255
+TXEIEUS,200512,209.425,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2005-12-01,2005,12,24072,182.873,193.713,211.759,196.115,173.89977
+TXEIEUS,200601,189.627,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-01-01,2006,1,24073,209.425,182.873,193.713,195.337,169.36943
+TXEIEUS,200602,178.207,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-02-01,2006,2,24074,189.627,209.425,182.873,193.97500000000002,158.80316
+TXEIEUS,200603,183.53,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-03-01,2006,3,24075,178.207,189.627,209.425,192.41966666666667,162.22923
+TXEIEUS,200604,166.094,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-04-01,2006,4,24076,183.53,178.207,189.627,183.788,155.79567
+TXEIEUS,200605,185.373,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-05-01,2006,5,24077,166.094,183.53,178.207,175.94366666666664,165.02856
+TXEIEUS,200606,206.259,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-06-01,2006,6,24078,185.373,166.094,183.53,178.3323333333333,177.12593
+TXEIEUS,200607,238.782,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-07-01,2006,7,24079,206.259,185.373,166.094,185.90866666666668,179.66722
+TXEIEUS,200608,240.607,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-08-01,2006,8,24080,238.782,206.259,185.373,210.138,179.44876
+TXEIEUS,200609,195.223,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-09-01,2006,9,24081,240.607,238.782,206.259,228.54933333333335,162.99231
+TXEIEUS,200610,193.312,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-10-01,2006,10,24082,195.223,240.607,238.782,224.87066666666666,162.70767
+TXEIEUS,200611,183.154,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-11-01,2006,11,24083,193.312,195.223,240.607,209.71400000000003,163.36723
+TXEIEUS,200612,198.154,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2006-12-01,2006,12,24084,183.154,193.312,195.223,190.56300000000002,172.26906
+TXEIEUS,200701,204.701,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-01-01,2007,1,24085,198.154,183.154,193.312,191.54,171.58273
+TXEIEUS,200702,190.851,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-02-01,2007,2,24086,204.701,198.154,183.154,195.33633333333333,160.48903
+TXEIEUS,200703,183.523,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-03-01,2007,3,24087,190.851,204.701,198.154,197.90199999999996,164.69044
+TXEIEUS,200704,173.742,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-04-01,2007,4,24088,183.523,190.851,204.701,193.02499999999998,157.18726
+TXEIEUS,200705,186.83,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-05-01,2007,5,24089,173.742,183.523,190.851,182.70533333333333,166.8212
+TXEIEUS,200706,210.487,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-06-01,2007,6,24090,186.83,173.742,183.523,181.365,178.93643
+TXEIEUS,200707,230.533,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-07-01,2007,7,24091,210.487,186.83,173.742,190.35299999999998,182.33253
+TXEIEUS,200708,247.995,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-08-01,2007,8,24092,230.533,210.487,186.83,209.28333333333333,181.71574
+TXEIEUS,200709,209.401,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-09-01,2007,9,24093,247.995,230.533,210.487,229.67166666666665,166.02515
+TXEIEUS,200710,197.103,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-10-01,2007,10,24094,209.401,247.995,230.533,229.30966666666666,163.7096
+TXEIEUS,200711,184.587,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-11-01,2007,11,24095,197.103,209.401,247.995,218.16633333333334,164.08353
+TXEIEUS,200712,205.161,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2007-12-01,2007,12,24096,184.587,197.103,209.401,197.03033333333335,173.59152
+TXEIEUS,200801,211.491,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-01-01,2008,1,24097,205.161,184.587,197.103,195.617,172.23447
+TXEIEUS,200802,191.043,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-02-01,2008,2,24098,211.491,205.161,184.587,200.413,160.80495
+TXEIEUS,200803,185.387,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-03-01,2008,3,24099,191.043,211.491,205.161,202.56499999999997,164.54161
+TXEIEUS,200804,173.908,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-04-01,2008,4,24100,185.387,191.043,211.491,195.97366666666667,155.90503
+TXEIEUS,200805,182.369,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-05-01,2008,5,24101,173.908,185.387,191.043,183.446,166.49686
+TXEIEUS,200806,209.64,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-06-01,2008,6,24102,182.369,173.908,185.387,180.55466666666666,176.98746
+TXEIEUS,200807,231.656,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-07-01,2008,7,24103,209.64,182.369,173.908,188.63899999999998,180.27534
+TXEIEUS,200808,225.728,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-08-01,2008,8,24104,231.656,209.64,182.369,207.88833333333332,175.81583
+TXEIEUS,200809,198.008,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-09-01,2008,9,24105,225.728,231.656,209.64,222.34133333333332,160.1891
+TXEIEUS,200810,184.022,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-10-01,2008,10,24106,198.008,225.728,231.656,218.46400000000003,158.50017
+TXEIEUS,200811,180.99,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-11-01,2008,11,24107,184.022,198.008,225.728,202.586,160.28458
+TXEIEUS,200812,198.589,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2008-12-01,2008,12,24108,180.99,184.022,198.008,187.67333333333332,169.73123
+TXEIEUS,200901,201.391,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-01-01,2009,1,24109,198.589,180.99,184.022,187.867,161.84644
+TXEIEUS,200902,166.692,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-02-01,2009,2,24110,201.391,198.589,180.99,193.65666666666667,149.05995
+TXEIEUS,200903,165.118,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-03-01,2009,3,24111,166.692,201.391,198.589,188.89066666666668,148.71121
+TXEIEUS,200904,152.964,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-04-01,2009,4,24112,165.118,166.692,201.391,177.73366666666666,137.74242
+TXEIEUS,200905,162.964,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-05-01,2009,5,24113,152.964,165.118,166.692,161.59133333333332,151.47464
+TXEIEUS,200906,185.772,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-06-01,2009,6,24114,162.964,152.964,165.118,160.34866666666667,164.7789
+TXEIEUS,200907,203.127,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-07-01,2009,7,24115,185.772,162.964,152.964,167.23333333333332,171.44986
+TXEIEUS,200908,211.183,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-08-01,2009,8,24116,203.127,185.772,162.964,183.95433333333335,167.06131
+TXEIEUS,200909,177.967,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-09-01,2009,9,24117,211.183,203.127,185.772,200.02733333333333,150.22522
+TXEIEUS,200910,171.182,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-10-01,2009,10,24118,177.967,211.183,203.127,197.42566666666667,148.35475
+TXEIEUS,200911,163.666,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-11-01,2009,11,24119,171.182,177.967,211.183,186.77733333333333,149.88945
+TXEIEUS,200912,195.8,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2009-12-01,2009,12,24120,163.666,171.182,177.967,170.93833333333336,162.07738
+TXEIEUS,201001,203.722,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-01-01,2010,1,24121,195.8,163.666,171.182,176.88266666666667,164.11702
+TXEIEUS,201002,178.58,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-02-01,2010,2,24122,203.722,195.8,163.666,187.72933333333333,147.97339
+TXEIEUS,201003,170.522,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-03-01,2010,3,24123,178.58,203.722,195.8,192.7006666666667,153.60558
+TXEIEUS,201004,153.679,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-04-01,2010,4,24124,170.522,178.58,203.722,184.2746666666667,146.81941
+TXEIEUS,201005,175.517,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-05-01,2010,5,24125,153.679,170.522,178.58,167.59366666666668,151.49525
+TXEIEUS,201006,205.646,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-06-01,2010,6,24126,175.517,153.679,170.522,166.57266666666666,168.8544
+TXEIEUS,201007,230.494,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-07-01,2010,7,24127,205.646,175.517,153.679,178.28066666666666,173.05476
+TXEIEUS,201008,231.704,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-08-01,2010,8,24128,230.494,205.646,175.517,203.88566666666668,170.39545
+TXEIEUS,201009,189.36,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-09-01,2010,9,24129,231.704,230.494,205.646,222.61466666666664,149.53102
+TXEIEUS,201010,165.819,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-10-01,2010,10,24130,189.36,231.704,230.494,217.186,148.04948
+TXEIEUS,201011,165.468,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-11-01,2010,11,24131,165.819,189.36,231.704,195.62766666666667,146.29916
+TXEIEUS,201012,199.744,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2010-12-01,2010,12,24132,165.468,165.819,189.36,173.549,161.4218
+TXEIEUS,201101,199.462,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-01-01,2011,1,24133,199.744,165.468,165.819,177.0103333333333,156.35916
+TXEIEUS,201102,164.9,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-02-01,2011,2,24134,199.462,199.744,165.468,188.22466666666665,141.373
+TXEIEUS,201103,163.323,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-03-01,2011,3,24135,164.9,199.462,199.744,188.03533333333334,144.93288
+TXEIEUS,201104,154.82,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-04-01,2011,4,24136,163.323,164.9,199.462,175.89499999999998,137.32283
+TXEIEUS,201105,169.41,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-05-01,2011,5,24137,154.82,163.323,164.9,161.01433333333333,151.96974
+TXEIEUS,201106,196.015,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-06-01,2011,6,24138,169.41,154.82,163.323,162.51766666666666,165.12471
+TXEIEUS,201107,228.152,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-07-01,2011,7,24139,196.015,169.41,154.82,173.415,168.60156
+TXEIEUS,201108,223.092,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-08-01,2011,8,24140,228.152,196.015,169.41,197.859,163.11794
+TXEIEUS,201109,181.441,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-09-01,2011,9,24141,223.092,228.152,196.015,215.75300000000001,143.98569
+TXEIEUS,201110,162.087,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-10-01,2011,10,24142,181.441,223.092,228.152,210.895,140.49356
+TXEIEUS,201111,155.398,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-11-01,2011,11,24143,162.087,181.441,223.092,188.87333333333333,138.26929
+TXEIEUS,201112,171.569,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2011-12-01,2011,12,24144,155.398,162.087,181.441,166.30866666666665,155.74194
+TXEIEUS,201201,167.699,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-01-01,2012,1,24145,171.569,155.398,162.087,163.018,152.19998
+TXEIEUS,201202,152.665,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-02-01,2012,2,24146,167.699,171.569,155.398,164.8886666666667,130.26201
+TXEIEUS,201203,143.766,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-03-01,2012,3,24147,152.665,167.699,171.569,163.97766666666666,135.49551
+TXEIEUS,201204,135.462,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-04-01,2012,4,24148,143.766,152.665,167.699,154.71,118.79179
+TXEIEUS,201205,161.308,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-05-01,2012,5,24149,135.462,143.766,152.665,143.96433333333331,135.28632
+TXEIEUS,201206,181.412,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-06-01,2012,6,24150,161.308,135.462,143.766,146.84533333333331,159.10515
+TXEIEUS,201207,219.762,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-07-01,2012,7,24151,181.412,161.308,135.462,159.394,165.29137
+TXEIEUS,201208,208.316,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-08-01,2012,8,24152,219.762,181.412,161.308,187.494,156.45337
+TXEIEUS,201209,172.976,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-09-01,2012,9,24153,208.316,219.762,181.412,203.16333333333333,138.24554
+TXEIEUS,201210,160.346,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-10-01,2012,10,24154,172.976,208.316,219.762,200.35133333333332,136.25655
+TXEIEUS,201211,161.725,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-11-01,2012,11,24155,160.346,172.976,208.316,180.54600000000002,136.01788
+TXEIEUS,201212,168.888,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2012-12-01,2012,12,24156,161.725,160.346,172.976,165.01566666666665,151.18025
+TXEIEUS,201301,174.506,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-01-01,2013,1,24157,168.888,161.725,160.346,163.65300000000002,151.44826
+TXEIEUS,201302,155.955,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-02-01,2013,2,24158,174.506,168.888,161.725,168.37300000000002,134.52287
+TXEIEUS,201303,163.999,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-03-01,2013,3,24159,155.955,174.506,168.888,166.44966666666667,139.93242
+TXEIEUS,201304,144.127,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-04-01,2013,4,24160,163.999,155.955,174.506,164.82,127.99511
+TXEIEUS,201305,154.325,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-05-01,2013,5,24161,144.127,163.999,155.955,154.69366666666667,136.97536
+TXEIEUS,201306,179.919,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-06-01,2013,6,24162,154.325,144.127,163.999,154.15033333333332,155.67757
+TXEIEUS,201307,204.685,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-07-01,2013,7,24163,179.919,154.325,144.127,159.457,162.90918
+TXEIEUS,201308,201.568,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-08-01,2013,8,24164,204.685,179.919,154.325,179.643,157.18744
+TXEIEUS,201309,176.332,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-09-01,2013,9,24165,201.568,204.685,179.919,195.39066666666668,139.01518
+TXEIEUS,201310,158.363,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-10-01,2013,10,24166,176.332,201.568,204.685,194.19500000000002,137.22433
+TXEIEUS,201311,155.558,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-11-01,2013,11,24167,158.363,176.332,201.568,178.7543333333333,134.99461
+TXEIEUS,201312,180.501,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2013-12-01,2013,12,24168,155.558,158.363,176.332,163.41766666666666,151.67342
+TXEIEUS,201401,196.375,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-01-01,2014,1,24169,180.501,155.558,158.363,164.80733333333333,152.28267
+TXEIEUS,201402,173.347,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-02-01,2014,2,24170,196.375,180.501,155.558,177.47799999999998,136.58711
+TXEIEUS,201403,166.847,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-03-01,2014,3,24171,173.347,196.375,180.501,183.40766666666664,141.89278
+TXEIEUS,201404,139.085,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-04-01,2014,4,24172,166.847,173.347,196.375,178.85633333333337,131.21892
+TXEIEUS,201405,155.662,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-05-01,2014,5,24173,139.085,166.847,173.347,159.75966666666667,132.3537
+TXEIEUS,201406,178.563,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-06-01,2014,6,24174,155.662,139.085,166.847,153.8646666666667,151.13092
+TXEIEUS,201407,198.458,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-07-01,2014,7,24175,178.563,155.662,139.085,157.77,162.78455
+TXEIEUS,201408,200.688,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-08-01,2014,8,24176,198.458,178.563,155.662,177.561,156.13536
+TXEIEUS,201409,171.627,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-09-01,2014,9,24177,200.688,198.458,178.563,192.56966666666665,137.3939
+TXEIEUS,201410,152.855,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-10-01,2014,10,24178,171.627,200.688,198.458,190.25766666666664,134.2836
+TXEIEUS,201411,154.008,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-11-01,2014,11,24179,152.855,171.627,200.688,175.05666666666664,133.00609
+TXEIEUS,201412,162.311,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2014-12-01,2014,12,24180,154.008,152.855,171.627,159.49666666666667,139.15596
+TXEIEUS,201501,172.91,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-01-01,2015,1,24181,162.311,154.008,152.855,156.39133333333334,148.97557
+TXEIEUS,201502,163.794,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-02-01,2015,2,24182,172.91,162.311,154.008,163.07633333333334,132.61743
+TXEIEUS,201503,147.814,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-03-01,2015,3,24183,163.794,172.91,162.311,166.33833333333334,135.0459
+TXEIEUS,201504,127.708,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-04-01,2015,4,24184,147.814,163.794,172.91,161.506,116.644165
+TXEIEUS,201505,147.627,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-05-01,2015,5,24185,127.708,147.814,163.794,146.43866666666668,120.16214
+TXEIEUS,201506,177.799,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-06-01,2015,6,24186,147.627,127.708,147.814,141.04966666666667,144.58699
+TXEIEUS,201507,201.06,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-07-01,2015,7,24187,177.799,147.627,127.708,151.04466666666667,160.34784
+TXEIEUS,201508,194.735,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-08-01,2015,8,24188,201.06,177.799,147.627,175.49533333333338,154.6944
+TXEIEUS,201509,170.79,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-09-01,2015,9,24189,194.735,201.06,177.799,191.198,134.06181
+TXEIEUS,201510,144.693,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-10-01,2015,10,24190,170.79,194.735,201.06,188.86166666666668,130.25995
+TXEIEUS,201511,133.131,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-11-01,2015,11,24191,144.693,170.79,194.735,170.07266666666666,120.520256
+TXEIEUS,201512,136.421,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2015-12-01,2015,12,24192,133.131,144.693,170.79,149.538,121.23441
+TXEIEUS,201601,159.03,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-01-01,2016,1,24193,136.421,133.131,144.693,138.08166666666668,134.47742
+TXEIEUS,201602,133.106,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-02-01,2016,2,24194,159.03,136.421,133.131,142.86066666666667,126.96784
+TXEIEUS,201603,115.997,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-03-01,2016,3,24195,133.106,159.03,136.421,142.85233333333335,116.74415
+TXEIEUS,201604,113.815,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-04-01,2016,4,24196,115.997,133.106,159.03,136.04433333333333,91.731125
+TXEIEUS,201605,129.44,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-05-01,2016,5,24197,113.815,115.997,133.106,120.97266666666667,107.24846
+TXEIEUS,201606,172.074,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-06-01,2016,6,24198,129.44,113.815,115.997,119.75066666666667,134.86723
+TXEIEUS,201607,201.958,9,Total Energy Electric Power Sector CO2 Emissions,Million Metric Tons of Carbon Dioxide,2016-07-01,2016,7,24199,172.074,129.44,113.815,138.443,157.55025
